@@ -25,7 +25,7 @@ import csv
 
 def main():
     
-    path = "./Nouvelles_notices"
+    path = "./Dump_xmlead"
     extension = "*.xml"
     
     dates_sans_normal = []
