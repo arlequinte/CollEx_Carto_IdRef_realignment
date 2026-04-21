@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="b79157154">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-130015101-jaa" mainagencycode="751131015">FRFONDS-130015101-jaa.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Archives nationales d’outre-mer. Bibliothèque. Aix-en-Provence. ANOM. Fonds Edmond Amieux</titleproper>
+        <author encodinganalog="creator">Archives nationales d’outre-mer. Aix-en-Provence. Bouches-du-Rhône</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20230309" type="date_de_la_première_édition">09/03/2023</date>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20230404" type="date_de_la_version_électronique">04/04/2023</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>Catalogue rédigé en<language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="130015101" normal="Archives nationales d’outre-mer. Aix-en-Provence. Bouches-du-Rhône" source="Répertoire_des_Centres_de_Ressources">Archives nationales d’outre-mer. Aix-en-Provence. Bouches-du-Rhône</corpname>
+      </repository>
+      <unittitle>Fonds Edmond Amieux</unittitle>
+      <abstract>48 livres rassemblés par Edmond Amieux, administrateur en poste à Madagascar. Passionné par l’île, il a rassemblé tout au long de sa carrière, livres, atlas, cartes et photographies qui lui ont permis d’approfondir sa connaissance du pays, de la population et de la langue malgache (ANOM)</abstract>
+      <unitdate calendar="gregorian" era="ce" normal="1930/1970">1930/1970</unitdate>
+      <langmaterial>
+        <language langcode="fre">français</language>
+      </langmaterial>
+      <physdesc>
+        <physfacet type="état">Bon état</physfacet>
+        <extent>Volume total : 48 livres</extent>
+      </physdesc>
+    </did>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds spécialisé" type="type de fonds">Fonds spécialisé</genreform>
+      </p>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Monographies" type="type de document">Monographies</genreform>
+      </p>
+      <p>
+        <genreform normal="Cartes et plans" type="type de document">Cartes et plans</genreform>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject authfilenumber="ark:/12148/cb11932512b" normal="Moeurs et coutumes" source="BnF">Moeurs et coutumes</subject>
+      <subject authfilenumber="ark:/12148/cb133189252" normal="Découvertes géographiques" source="BnF">Découvertes géographiques</subject>
+      <subject authfilenumber="ark:/12148/cb11931565p" normal="Géologie" source="BnF">Géologie</subject>
+      <subject authfilenumber="ark:/12148/cb11933140q" normal="Pisciculture" source="BnF">Pisciculture</subject>
+      <subject authfilenumber="ark:/12148/cb11931295s" normal="Ethnologie -- Madagascar" source="BnF">Ethnologie -- Madagascar</subject>
+      <subject authfilenumber="ark:/12148/cb119328694" normal="Animaux" source="BnF">Animaux</subject>
+      <subject authfilenumber="ark:/12148/cb11976799k" normal="Guides touristiques et de visite" source="BnF">Guides touristiques et de visite</subject>
+      <subject authfilenumber="ark:/12148/cb11934457h" normal="Colonies françaises" source="BnF">Colonies françaises</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Lieu(x) géographique(s)</head>
+      <geogname authfilenumber="ark:/12148/cb119323881" normal="Madagascar" source="BnF">Madagascar</geogname>
+      <geogname authfilenumber="ark:/12148/cb11945077g" normal="Maurice" source="BnF">Maurice</geogname>
+      <geogname authfilenumber="ark:/12148/cb119704999" normal="Comores" source="BnF">Comores</geogname>
+    </controlaccess>
+    <accruals>
+      <p>Fonds clos</p>
+    </accruals>
+    <processinfo type="traitement du fonds">
+      <head>Traitement du fonds</head>
+      <p>Catalogué</p>
+    </processinfo>
+    <scopecontent>
+      <p>Les ouvrages qui constituent ce fonds prouvent l’intérêt d’Edmond Amieux pour des thèmes très variés : mœurs et coutumes du peuple malgache, exploration scientifique et géographique de Madagascar, histoires et légendes du pays malgache, mais également la géologie, la pisciculture, la faune locale, les guides touristiques sur la Réunion, l’île Maurice, les Comores. Quelques indices découverts au moment de la rédaction des notices bibliographiques reflètent la personnalité de ce bibliophile. Les dédicaces de relations ou d’amis permettent de voir les relations entretenues, les nombreux inserts (coupures de presse, tirés à part du Bulletin de Madagascar, extraits de compte rendus de l’Académie des sciences d’outre-mer) montrent sa curiosité et les reliures soignées en tissu rabane, son soin pour prolonger la longévité des livres de sa bibliothèque.</p>
+    </scopecontent>
+    <bioghist>
+      <p>Né en 1911 à Noisiel (Seine-et-Marne), Edmond Amieux a occupé le poste d’administrateur puis d’administrateur en chef de 1935 à 1970 à Madagascar. Jean-Claude Amieux, fils d'Edmond Amieux a souhaité déposer la bibliothèque constituée par son père aux Archives nationales d’outre-mer, un lot de documents iconographiques viendra compléter ce premier versement.</p>
+    </bioghist>
+    <custodhist>
+      <p><persname role="390">Amieux, Edmond</persname> Administrateur puis d’administrateur en chef de 1935 à 1970 à Madagascar</p>
+    </custodhist>
+    <acqinfo>
+      <p>Don</p>
+    </acqinfo>
+    <bibliography>
+      <head>Bibliographie</head>
+      <bibref linktype="simple">Berthier (Hugues), Notes et Impressions sur les moeurs et coutumes du peuple malgache, Tananarive, Imprimerie officielle, 1933<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Decary (Raymond), L'Androy (Extrême Sud de Madagascar) : essai de monographie régionale. T.1, Géographie physique et humaine, Paris, Société d'édition géographiques maritimes et coloniales, 1930<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Decary (Raymond), L'Androy (Extrême Sud de Madagascar) : essai de monographie régionale. T.2, Histoire, Civilisation, Colonisation, Paris, Société d'édition géographiques maritimes et coloniales, 1933<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Hyet (Edouard), Tailliart (Charles), Tragédie Malgache ? : reportage social sur la région Merina (Hauts plateaux de Madagascar), Paris, Imprimerie de la Renaissance, 1936<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Engelvin (Ambroise), Grandidier (Guillaume), Monographie d'une sous-tribu Sakalava : les Vézos ou "Enfants de la mer", Bellevue, Librairie vincentienne et missionnaire, 1937<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Manicacci (Jean), L'archipel des Comores, Tananarive, Imprimerie officielle, 1939 Frère (J.), Guide de l'expert agricole de Madagascar, Tananarive, Imprimerie des arts graphiques, [1944]<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Paulian (Renaud), Papillons communs de Madagascar, Tananarive-Tsimbazaza, Institut de recherche scientifique, 1951<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Devic (Jean), Tananarive, ses origines, son développement, son état actuel, Tananarive, Imprimerie officielle, 1952<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Boiteau (Pierre), Contribution à l'histoire de la nation malgache, Paris, Éditions sociales, 1958 Colin (Pierre), Aspect de l'âme malgache, Paris, Editions de l'Orante, 1959<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Kiener (André), Poissons sacrés et coutumes sakalava de la région de Majunga : "Fomba et "Fady" tourisme et poissons, Tananarive, Imprimerie nationale, 1962<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Université de Madagascar, Département d'art et d'archéologie, Art sakalava : statues, objets, photographies, documents sonores : exposition inaugurée le 21 février 1963 dans les salons de l'Hôtel de ville de Tananarive, Tananarive, Société malgache d'édition, 1963<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">Szumski, Extrême-sud malgache : légendes et récits, Fianarantsoa (Madagascar), Imprimerie catholique, 1968<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+      <bibref linktype="simple">
+        <extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref>
+      </bibref>
+      <bibref linktype="simple">Spacensky (Alain), Madagascar, 50 ans de vie politique : de Ralaimongo à Tsiranana, Paris, Nouvelles éditions latines, 1970<extref actuate="onrequest" href="http://bibliotheque.anom.archivesnationales.culture.gouv.fr" linktype="simple" show="new">Archives nationales d’outre-mer. Catalogue de la bibliothèque</extref></bibref>
+    </bibliography>
+    <relatedmaterial>
+      <p>Archives nationales d'outre-mer. Archives privées. Papiers Edmond Amieux : 305 APOM 1 à 3 <extref actuate="onrequest" href="https://recherche-anom.culture.gouv.fr/archive/resultats/complexe/lineaire/FRANOM_12305/n:110?RECH_S=edmond+amieux&amp;RECH_SELECTOR%5B0%5D=archives&amp;RECH_SELECTOR%5B1%5D=etatcivil&amp;RECH_SELECTOR%5B2%5D=recensement&amp;RECH_SELECTOR%5B3%5D=matricule&amp;RECH_SELECTOR%5B4%5D=electorale&amp;RECH_SELECTOR%5B5%5D=cadastre&amp;RECH_SELECTOR%5B6%5D=cartespostales&amp;RECH_SELECTOR%5B7%5D=poilus&amp;RECH_SELECTOR%5B8%5D=cartespostales&amp;RECH_SELECTOR%5B9%5D=presse&amp;RECH_SELECTOR%5B10%5D=doleance&amp;RECH_SELECTOR%5B11%5D=contenus&amp;type=complexe" linktype="simple" show="new">Archives nationales d'outre-mer. Instruments de recherche en ligne</extref></p>
+      <p>Archives nationales d'outre-mer. Etat des fonds. EE, EE II - Direction du personnel et de la comptabilité. Dossier individuel EE II 8171 <extref actuate="onrequest" href="https://recherche-anom.culture.gouv.fr/archive/egf/n:100" linktype="simple" show="new">Archives nationales d'outre-mer. Instruments de recherche en ligne</extref></p>
+    </relatedmaterial>
+    <accessrestrict>
+      <p>Tous publics, inscription gratuite sur présentation d’une pièce d’identité officielle en cours de validité Ouverture des salles de consultation : du lundi au vendredi de 9h00 à 16h50 Fermeture mensuelle : 1er lundi de chaque mois. Fermetures annuelles : première semaine du mois de juillet, semaine entre Noël et le jour de l'An</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Consultation sur place, pas de prêt à domicile. Pas de prêt entre bibliothèques. Renseignements bibliographiques par courrier Conditions d'utilisation : Service de reproduction à la demande</p>
+    </userestrict>
+    <processinfo>
+      <head>Responsable du fonds</head>
+      <p>Sylvie Pontillo</p>
+    </processinfo>
+    <dsc/>
+  </archdesc>
+</ead>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="b2244377">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-751045204-6nW" mainagencycode="751131015">FRFONDS-751045204-6nW.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Bibliothèque Kandinsky - Centre de documentation et de recherche du Musée national d'art moderne - Centre de création industrielle - Van Assche, Christine</titleproper>
+        <author encodinganalog="creator">Bibliothèque Kandinsky - Centre de documentation et de recherche du Musée national d'art moderne - Centre de création industrielle</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20220926" type="date_de_la_première_édition">26/09/2022</date>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20221006" type="date_de_la_version_électronique">06/10/2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>Catalogue rédigé en<language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="751045204" normal="Bibliothèque Kandinsky - Centre de documentation et de recherche du Musée national d'art moderne - Centre de création industrielle" source="Répertoire_des_Centres_de_Ressources">Bibliothèque Kandinsky - Centre de documentation et de recherche du Musée national d'art moderne - Centre de création industrielle</corpname>
+      </repository>
+      <unittitle>Van Assche, Christine</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="1974/2015">1974-2015</unitdate>
+      <physdesc>
+        <extent>Autre volumétrie : 13 boîtes</extent>
+      </physdesc>
+    </did>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Archives" type="type de document">Archives</genreform>
+      </p>
+      <p>
+        <genreform normal="Photographies" type="type de document">Photographies</genreform>
+      </p>
+      <p>
+        <genreform normal="Monographies" type="type de document">Monographies</genreform>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject authfilenumber="ark:/12148/cb11935712m" normal="Arts" source="BnF">Arts</subject>
+      <subject authfilenumber="ark:/12148/cb119382437" normal="Art vidéo" source="BnF">Art vidéo</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Personne(s) liée(s)</head>
+      <persname authfilenumber="ark:/12148/cb12285761s" normal="Van Assche, Christine" source="BnF">Van Assche, Christine</persname>
+    </controlaccess>
+    <accruals>
+      <p>Fonds clos</p>
+    </accruals>
+    <processinfo>
+      <p>Cote CVA 1 - 39</p>
+    </processinfo>
+    <scopecontent>
+      <p>Le fonds se compose de dossiers de travail personnels (articles, coupures de presse, photographies, ouvrages ) que Christine Van Assche a constitués au fur et à mesure de ses recherches.</p>
+    </scopecontent>
+    <bioghist>
+      <p>Christine Van Assche termine ses études d'histoire de l'art et d'archéologie en Belgique et intègre l'équipe du Centre Pompidou en 1974 en tant que chargée d'études culturelles. Au Musée national d'art moderne, elle devient d'abord assistante de conservation en 1979 et ensuite conservatrice sous la direction de Dominique Bozo en 1984. Dix ans plus tard, Germain Viatte lui confiera la responsabilité de la collection Nouveaux Médias ; Christine Van Assche restera conservatrice en chef jusqu'à sa retraite en 2013. Aujourd'hui elle poursuit ses activités de recherche et de commissariat d'exposition en indépendant.</p>
+      <p>Tout au long de sa carrière au Centre Pompidou, Christine Van Assche a contribué à la constitution, à l'élaboration et à la conservation à la collection Nouveaux Médias qui est l'une des plus importante collections dans son domaine, avec plus de 1600 oeuvres (installations, bandes vidéo, bandes sonores et sites internet). Cette collection très largement mondialisée montre qu'elle fut précurseur dans la découverte de territoires émergents de l'art contemporain.</p>
+      <p>Seule ou en collaboration avec d'autres spécialistes et théoriciens de son domaine, Christine Van Assche conçut de nombreuses expositions au sein et à l'extérieur du Centre Pompidou : Thierry Kuntzel, Nam June Paik, Gary Hill, Mona Hatoum, Chris Marker, Bruce Nauman, Mike Kelley/Tony Oursler pour donner quelques exemples monographiques et Sonic Process, Passages de l'image, Une vision du monde et Video Vintage pour rappeler quelques expositions mixtes.</p>
+      <p>Parallèlement à ses activités de commissaire, Christine Van Assche participa également à l'élaboration des théories esthétiques et à l'écriture de l'histoire de l'art dans les domaines des Nouveaux Médias comme peuvent en témoigner les séminaires Passages de l'image (avec Raymond Bellour et Catherine David), la Revue Virtuelle (avec Jean-Louis Boissier et Martine Moinot), le cycle de conférence Pour un nouveau narrateur (avec François Albéra et Jean-Christophe Royoux) et de nombreux catalogues, ouvrages et articles.</p>
+    </bioghist>
+    <otherfindaid>
+      <p>Catalogue archives et documentation de la Bibliothèque Kandinsky <extref actuate="onrequest" href="https://archivesetdocumentation.centrepompidou.fr/ead.html?id=FRM5050-X0031_0000148#!{%22content%22:[%22FRM5050-X0031_0000148_FRM5050-X0031116821%22,true,%22%22]}" linktype="simple" show="new">Consulter</extref></p>
+    </otherfindaid>
+    <relatedmaterial>
+      <p>Dans le cadre de ses activités au Centre Pompidou en tant que chef de service et responsable de la collection Nouveaux Médias, Christine Van Assche a régulièrement effectué des versements d'archives au service Archives du Centre Pompidou. Voici un aperçu du contenu de ces versements :</p>
+      <p>- Historique, évolution et gestion du service nouveaux médias, budget et gestion du personnel : CR, notes et correspondance (1987-2012).</p>
+      <p>- Collections nouveaux médias, gestion et itinérance par ville : CR de réunions, notes, tableaux, correspondance (jusqu'en 2011).</p>
+      <p>- Production du service NM de 1980 à 2000 : Notes, listes.</p>
+      <p>- Collection vidéo, gestion : notes (2005-2008).</p>
+      <p>- Numérisation des nouveaux médias : Notes et correspondance (2002-2010).</p>
+      <p>- Manifestations : Notes, CR de réunions, tableaux, correspondance ( Hains, Revue virtuelle, Nauman, Garry Hill, June Paik, Chris Marker, Douglas Gordon, Sonic process, Video vintage).</p>
+      <p>Dans le cadre de ses activités au Centre Pompidou en tant que chef de service et responsable de la collection Nouveaux Médias, Christine Van Assche a régulièrement remis des ouvrages et documents à la Bibliothèque Kandinsky. Ces éléments ont intégré les collections imprimées ou ont été reclassés dans la collection des dossiers documentaires. Dans ce cas on trouvera indiqué dans chaque notice consacrée à un dossier d'artiste de ce fonds les références du dossier documentaire conservé à la Bibliothèque Kandinsky.</p>
+    </relatedmaterial>
+    <prefercite>
+      <p>Pour citer ce fonds : "Centre Pompidou/MNAM-CCI/Bibliothèque Kandinsky, Fonds Christine Van Assche."</p>
+    </prefercite>
+    <dsc/>
+  </archdesc>
+</ead>

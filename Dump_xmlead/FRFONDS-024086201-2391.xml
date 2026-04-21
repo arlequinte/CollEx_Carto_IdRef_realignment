@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="Fonds_2391"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924"><eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-024086201-2391" mainagencycode="751131015">FRFONDS-024086201-2391.xml</eadid><filedesc><titlestmt><titleproper encodinganalog="title">Bibliothèque Suzanne Martinet. Laon, Aisne. Fonds ancien</titleproper><author encodinganalog="creator">Bibliothèque Suzanne Martinet. Laon, Aisne</author></titlestmt><publicationstmt><publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher><date encodinganalog="date" normal="20130201" type="date_de_la_première_édition">2013/02/01</date></publicationstmt></filedesc><profiledesc><creation audience="internal">Encodé conformément à la DTD EAD 2002. L'encodage a été réalisé en 2021 par transformation d'un fichier XML extrait du Répertoire de fonds du CCFr.</creation><langusage>Catalogue rédigé en<language encodinganalog="language" langcode="fre">français</language></langusage></profiledesc></eadheader><archdesc level="fonds"><did><repository><corpname authfilenumber="024086201" normal="Bibliothèque Suzanne Martinet. Laon, Aisne" source="Répertoire_des_Centres_de_Ressources">Bibliothèque Suzanne Martinet. Laon, Aisne</corpname></repository><unittitle>Fonds ancien</unittitle><unitdate calendar="gregorian" era="ce" normal="0701/1914">0701-1914</unitdate><langmaterial><language langcode="fre">français</language><language langcode="lat">latin</language><language langcode="grc">grec ancien (jusqu'à 1453)</language><language langcode="gre">grec moderne (après 1453)</language><language langcode="spa">espagnol (ou castillan)</language><language langcode="fro">français ancien (842-ca. 1400)</language><language langcode="ita">italien</language><language langcode="eng">anglais</language></langmaterial><physdesc><physfacet type="état">Bon état</physfacet><extent>Volume total : Volume total : 1662 volume(s)</extent><extent>Autre volumétrie : Autre volumétrie : Le fonds ancien est composé : Fonds manuscrits, 800 volumes, de 701 à 1914,Fonds d'incunables, 51 volumes, de 1450 à 1501,Fonds du XVIe siècle, 451 volumes, de 1501 à 1600,Fonds d'Aguesseau, 360 volumes, de 1501 à 1751.</extent></physdesc><unitid audience="internal" type="old_id_ccfr">2391</unitid></did><scopecontent><head>Type(s) de fonds</head><p><genreform normal="Fonds ancien" type="type de fonds">Fonds ancien</genreform></p></scopecontent><controlaccess><head>Thème(s)</head><subject>Jurisprudence</subject><subject>Belles-lettres</subject><subject>Sciences et arts</subject><subject>Histoire et Géographie</subject><subject>Théologie</subject></controlaccess><accruals><p>Fonds clos</p></accruals><processinfo type="traitement du fonds"><head>Traitement du fonds</head><p>Catalogué</p></processinfo><processinfo><p>Numérisé en partie pour les manuscrits</p></processinfo><scopecontent><p>Le fonds ancien de la bibliothèque de Laon est un fonds très riche de par son ancienneté et sa variété. Les manuscrits de la période médiévale reflète l'enseignement des arts libéraux donné dans les écoles monastiques notamment l'école épiscopale de Laon. Ainsi, la grammaire, la dialectique et la rhétorique, l’arithmétique, la géométrie, l'astronomie, la musique y sont représentées. Un grand ensemble de Livres Saints richement ornés côtoie les commentaires sur les évangiles. Les manuscrits de médicaux témoignent de l'importance de la médecine Laonnoise. Leurs notes marginales leur confèrent une grande originalité et traduisent la démarche critique et l'esprit d'observation propre à cette époque. Du fonds des manuscrits au fonds du chancelier d'Aguesseau, le fonds ancien permet de se rendre compte du rayonnement culturel de la ville Laon.</p></scopecontent><bioghist><p>Le fonds ancien de la bibliothèque de Laon a été constitué lors des confiscations révolutionnaires des abbayes de Vauclair, de Prémontré, de Saint Vincent, de Cuissy, du Val Saint-Pierre et de la Cathédrale Notre-Dame de Laon. Le fonds a été complété par des dons et legs.</p></bioghist><bibliography><head>Document(s) remarquable(s)</head><bibref>Traité de la nature, d'Isidore de Séville (Saint), VIIe siècle. Ms 423 :<extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/21-traite-de-la-nature/?n=2" linktype="simple" show="new">voir</extref></bibref><bibref>Evangiles d'Hildegarde, IXe siècle. Ms 63 :<extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/5-evangiles/?n=5" linktype="simple" show="new">voir</extref></bibref><bibref>Traité des propriétés des choses, Nuremberg, 1483, quelques lettrines coloriées</bibref><bibref>Missel à l’usage de Laon » imprimé par Jean Dupré, 1491, lettrines coloriées</bibref><bibref>Comédie de Terence, Ed. Paris, 1529</bibref><bibref>Regimen Sanitis, Arnaud de Villeneuve, imprimé à Paris par Michel Lenoir, 1501</bibref><bibref>Trésors des trois langues française, italienne, espagnol, imprimé à Genève par Philippe Hubert et Alexandre Pernet</bibref><bibref>Liber sextus decretalium D. Bonifacii Papae VIII,Edition Expensis Udalrici Gering &amp; Magistri Berchtoldi Renbolt, 1501</bibref></bibliography><altformavail><p>Numérique</p><p>Fac-similé</p><p>Microfilm</p><p>Manuscrits de la bibliothèque sont partiellement numérisés et apparaissent sur le site de la bibliothèque numérique de la ville de Laon. : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/" linktype="simple" show="new">voir la numérisation.</extref></p></altformavail><otherfindaid><p>Catalogue général des manuscrits des bibliothèques publiques des départements, publié sous les auspices du ministre de [...], Tome 1, 1-477, Ed. Bibliothèque nationale de France, 1849. Catalogue des bibliothèques publiques Tome 57, deuxième supplément, 609-637, Ed. Bibliothèque nationale de France, 1903. Nouvelles acquisitions du département des manuscrits de la bibliothèque nationale pendant les années 1907-1908, Volume 70.</p><p>Site de la bibliothèque de Laon : <extref actuate="onrequest" href="http://biblio.ville-laon.fr/opacwebaloes/index.aspx" linktype="simple" show="new">voir le catalogue</extref></p><p>Site du CCfr : <extref actuate="onrequest" href="http://ccfr.bnf.fr/portailccfr/jsp/portal/index.jsp" linktype="simple" show="new">voir le catalogue</extref></p></otherfindaid><custodhist><p><persname role="390">Abbaye de Vauclair</persname></p><p><persname role="390">Abbaye de Prémontré</persname></p><p><persname role="390">Abbaye de Saint-Vincent</persname></p><p><persname role="390">Abbaye de Cuissy</persname></p><p><persname role="390">Abbaye du Val-Saint-Pierre</persname></p><p><persname role="390">Cathédrale Notre-Dame de Laon</persname></p><p><persname role="390">M. l'Abbé l'Ecuy</persname></p><p><persname role="390">M. Brière de Surgy</persname></p><p><persname role="390">M. Devisme</persname></p><p><persname role="390">Henri François d’Aguesseau (1668-1751)</persname></p><p><persname role="390">Jean-Baptiste Paulin d’Aguesseau (1702-1784)</persname></p><p><corpname role="390">Abbaye de Vauclair</corpname></p><p><corpname role="390">Abbaye de Prémontré</corpname></p><p><corpname role="390">Abbaye de Saint-Vincent</corpname></p><p><corpname role="390">Abbaye de Cuissy</corpname></p><p><corpname role="390">Abbaye du Val-Saint-Pierre</corpname></p><p><corpname role="390">Cathédrale Notre-Dame de Laon</corpname></p></custodhist><acqinfo><p>Confiscations révolutionnaires, dons, legs.</p></acqinfo><bibliography><head>Bibliographie</head><bibref>Patrimoine des bibliothèques de France Tome 2, Ed Payot, 1997. Bibliothèques publiques de l’Aisne, M. Abbé Pêcheur, Ed. Soissons, 1883. Histoire de Laon et de ses institutions Tome 1, M. Melleville, Ed. Laon, 1845. Bibliothèque de l’ordre de Prémontré dans la France d’Ancien Régime, Mme Anne Bondéelle-Souchier, Ed. CNRS, 2000. Histoire des bibliothèques publiques du département de l'Aisne existant à Soissons, Laon et Saint- Quentin : avec notices, Ed. Soissons, 1883.Catalogue des livres imprimés et manuscrits de la bibliothèque de feu M. Aguesseau, doyen du conseil, par M. Devise, Paris, 1785.</bibref></bibliography><accessrestrict><p>Accès : Manuscrits originaux : Consultation sur rendez-vous et sur demande motivée. Microfilm et fac-similé : accès libre et gratuit.</p><p>Prêt : Non</p><p>Prêt inter-bibliothèques : Non</p></accessrestrict><userestrict><p>Reproduction : Possibilité de reproduction tarifée sur demande. Photographies sans flash autorisées pour usage personnel. Pour toute information complémentaire se reporter au règlement de l’établissement.</p></userestrict><prefercite><p>Citer sous la forme : Fonds anciens</p></prefercite><processinfo><head>Responsable du fonds</head><p>Mme Laurence Richard</p></processinfo><processinfo audience="internal"><p>Statut de la notice : validée</p></processinfo><dsc><c id="Fonds_2474" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">2474</unitid>
+          <unittitle>Manuscrits</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="0701/1914">0701-1914</unitdate>
+          <physdesc>
+            <physfacet type="état">Fonds en bon état</physfacet>
+            <extent>Volume total : 800 volume(s)</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="grc">grec ancien (jusqu'à 1453)</language>
+            <language langcode="lat">latin</language>
+            <language langcode="ara">arabe</language>
+          </langmaterial>
+        </did><relatedmaterial>
+          <p>
+            <extref actuate="onrequest" href="http://www.europeanaregia.eu/fr/rechercher/manuscrits/laon" show="new">Une partie des manuscrits numérisés de Laon est consultable partiellement ou en intégralité sur les sites suivants :
+Europeana Regia</extref>
+          </p>
+          <p>
+            <extref actuate="onrequest" href="http://gallica.bnf.fr/Search?ArianeWireIndex=index&amp;p=1&amp;lang=FR&amp;f_typedoc=manuscrits&amp;q=Laon+manuscrits&amp;x=25&amp;y=17" show="new">Gallica</extref>
+          </p>
+          <p>
+            <extref actuate="onrequest" href="http://bvmm.irht.cnrs.fr/recherche/rechercheParVille.php#" show="new">La Bibliothèque virtuelle des manuscrits médiévaux (BVMM)</extref>
+          </p>
+          <p>
+            <extref actuate="onrequest" href="http://www.enluminures.culture.fr/documentation/enlumine/fr/rechguidee_00.htm" show="new">Enluminures</extref>
+          </p>
+        </relatedmaterial><altformavail>
+          <p>Numérique</p>
+          <p>Microfilm</p>
+          <p>Fac-similé</p>
+          <p>Une campagne de numérisation des manuscrits de la ville de Laon a débuté en 2007 pour une durée de dix ans. Chaque numérisation est accompagnée d'une notice très détaillée. Toutes les numérisations sont consultables en intégralité sur le site de la bibliothèque numérique. : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?esa=resetall&amp;navigation=0" show="new">voir la numérisation.</extref></p>
+          <p>Une partie des manuscrits numérisés de Laon est consultable partiellement ou en intégralité sur les sites suivants :
+Europeana Regia : <extref actuate="onrequest" href="http://www.europeanaregia.eu/fr/rechercher/manuscrits/laon" linktype="simple" show="new">voir la numérisation.</extref></p>
+          <p>Gallica : <extref actuate="onrequest" href="http://gallica.bnf.fr/Search?ArianeWireIndex=index&amp;p=1&amp;lang=FR&amp;f_typedoc=manuscrits&amp;q=Laon+manuscrits&amp;x=25&amp;y=17" linktype="simple" show="new">voir la numérisation.</extref></p>
+          <p>La Bibliothèque virtuelle des manuscrits médiévaux (BVMM) : <extref actuate="onrequest" href="http://bvmm.irht.cnrs.fr/recherche/rechercheParVille.php#" linktype="simple" show="new">voir la numérisation.</extref></p>
+          <p>Enluminures : <extref actuate="onrequest" href="http://www.enluminures.culture.fr/documentation/enlumine/fr/rechguidee_00.htm" linktype="simple" show="new">voir la numérisation.</extref></p>
+        </altformavail><otherfindaid>
+          <p>Catalogue général des manuscrits des bibliothèques publiques des départements, publié sous les auspices du ministre de [...], Tome 1, 1-477, Ed. Bibliothèque nationale de France, 1849.
+Catalogue des bibliothèques publiques Tome 57, deuxième supplément, 609-637, Ed. Bibliothèque nationale de France, 1903.
+Nouvelles acquisitions du département des manuscrits de la bibliothèque nationale pendant les années 1907-1908, Volume 70.</p>
+          <p>CCFR : Manuscrits : <extref actuate="onrequest" href="http://ccfr.bnf.fr/" show="new">voir le catalogue</extref></p>
+          <p>Catalogue en ligne de la bibliothèque municipale de Laon : <extref actuate="onrequest" href="http://biblio.ville-laon.fr/opacwebaloes/index.aspx?IdPage=291" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo>
+          <head>Responsable du fonds</head>
+          <p>Mme Laurence Richard</p>
+        </processinfo><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+          <p>Numérisé</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : validée</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><bibliography>
+          <head>Document(s) remarquable(s)</head>
+          <bibref>Traité de la nature, d'Isidore de Séville. Ms 423. : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/21-traite-de-la-nature/?n=1" show="new">voir</extref></bibref>
+          <bibref>Evangiles d'Hildegarde. Ms 63 : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms++63" show="new">voir</extref></bibref>
+          <bibref>Commentaire sur l'Evangile de Jean. Ms 81 : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms++81" show="new">voir</extref></bibref>
+          <bibref>Histoires contre les païens. Ms 137 : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms+137" show="new">voir</extref></bibref>
+          <bibref>Heures de Devisme. Ms 243t : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms+243+t" show="new">voir</extref></bibref>
+          <bibref>Heures de Brière de Surgy. Ms 423q : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms+243+q" show="new">voir</extref></bibref>
+          <bibref>Graduel de Laon. Ms 239 : <extref actuate="onrequest" href="http://bibliotheque-numerique.ville-laon.fr/collection/?est=meta.exact&amp;esr=Cote%24%24%24Ms+239" show="new">voir</extref></bibref>
+        </bibliography><bibliography>
+          <head>Bibliographie</head>
+          <bibref>Patrimoine des bibliothèques de France Tome 2, Ed Payot, 1997.
+Bibliothèques publiques de l’Aisne, M. Abbé Pêcheur, Ed. Soissons, 1883.
+Histoire de Laon et de ses institutions Tome 1, M. Melleville, Ed. Laon, 1845. 
+Bibliothèque de l’ordre de Prémontré dans la France d’Ancien Régime, Mme Anne Bondéelle-Souchier, Ed. CNRS, 2000.
+Histoire des bibliothèques publiques du département de l'Aisne existant à Soissons, Laon et Saint- Quentin : avec notices, Ed. Soissons, 1883.</bibref>
+        </bibliography><custodhist>
+          <p>
+            <persname role="390">Abbaye de Vauclair</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Prémontré</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Saint-Vincent</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Cuissy</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye du Val-Saint-Pierre</persname>
+          </p>
+          <p>
+            <persname role="390">Cathédrale Notre-Dame de Laon</persname>
+          </p>
+          <p>
+            <persname role="390">M. l'Abbé l'Ecuy</persname>
+          </p>
+          <p>
+            <persname role="390">M. Brière de Surgy</persname>
+          </p>
+          <p>
+            <persname role="390">M. Devisme</persname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Vauclair</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Prémontré</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Saint-Vincent</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Cuissy</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye du Val-Saint-Pierre</corpname>
+          </p>
+          <p>
+            <corpname role="390">Cathédrale Notre-Dame de Laon</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Le fonds des manuscrits de la Bibliothèque Municipale de Laon est constitué de 800 manuscrits dont 500 manuscrits médiévaux. L’un des trésors du fonds est le manuscrit ms 423, « Traité de la Nature » par Isidore de Séville du VIIIe siècle. Les quatre-vingt neufs manuscrits du haut Moyen Age (dont soixante-quatorze proviennent de la cathédrale) reflètent l'enseignement des arts libéraux donné dans les écoles monastiques notamment l'école épiscopale de Laon. Ainsi, la grammaire, la dialectique et la rhétorique, l’arithmétique, la géométrie, l'astronomie, la musique y sont représentées.
+Les manuscrits médicaux des IXe, XIIe et XIIIe siècles témoignent de l'importance de la médecine Laonnoise enseignée dès cette époque avec les arts libéraux.
+ Un grand ensemble de Livres Saints richement ornés côtoie les commentaires sur les évangiles dont les écritures et les ornementations nous relèvent la présence d’une colonie de maîtres irlandais.
+Les notes marginales présentent sur les manuscrits confèrent une grande originalité et traduisent la démarche critique et l'esprit d'observation propre à cette époque. De plus, un grand nombre de ces manuscrits portent des signatures et des annotations comme celles de Jean Scot Erigène ou encore son contemporain Martin Scot (819-875). De nombreuses mentions de donation se retrouvent dans les ouvrages comme celles des évêques Didon (882-895), Raoul (895-921), Adeleme (921-930), Roricon (948-976), du maître et doyen Bernard (845-903). 
+La collection de manuscrit ne s’arrête pas à cette époque mais se poursuit jusqu'à nos jours, avec des écrits d’auteurs modernes ou contemporains.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds ancien" type="type de fonds">Fonds ancien</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Textes manuscrits" type="type de document">Textes manuscrits</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par type de document</head>
+          <p><genreform normal="Textes manuscrits" type="type de document">Textes manuscrits</genreform> : 800 volume(s)</p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par langue</head>
+          <p>latin : 688 volume(s)</p>
+          <p>français ancien (842-ca. 1400) : 110 volume(s)</p>
+          <p>grec ancien (jusqu'à 1453) : 2 volume(s)</p>
+        </scopecontent><bioghist>
+          <p>L’essentiel du fonds des manuscrits a été rassemblé lors des confiscations révolutionnaires des abbayes de Vauclair, de Prémontré, de Saint Vincent, de Cuissy, du Val Saint-Pierre et de la Cathédrale Notre-Dame de Laon. Ensuite, le fonds s’est enrichi des dons de M. l’Abbé l’Ecuy, de M. le Baron Brière de Surgy et de M. Devisme (1749-1830) (un manuscrit).
+Le fonds des manuscrits initialement constitué a subi de nombreuses pertes (vols, destructions, le bombardement de la ville en 1944), il demeure néanmoins l’un des fonds les plus précieux de France.</p>
+        </bioghist><acqinfo>
+          <p>Saisies révolutionnaires. Legs. Dons.</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Manuscrits originaux : Consultation sur rendez-vous et sur demande motivée. 
+Microfilm et fac-similé : accès libre et gratuit.</p>
+          <p>Prêt : Non</p>
+          <p>Prêt inter-bibliothèques : Non</p>
+        </accessrestrict><userestrict>
+          <p>Reproduction : Possibilité de reproduction tarifée sur demande.
+Photographies sans flash autorisées pour usage personnel.
+Pour toute information complémentaire se reporter au règlement de l’établissement.</p>
+        </userestrict><prefercite>
+          <p>Citer sous la forme : Fonds Manuscrits</p>
+          <p>Identifiant du fonds au sein de l’institution : MS</p>
+        </prefercite><controlaccess>
+          <head>Thème(s)</head>
+          <subject authfilenumber="ark:/12148/cb133183660" normal="Musique" source="BnF">Musique</subject>
+          <subject authfilenumber="ark:/12148/cb11963568t" normal="Religion" source="BnF">Religion</subject>
+          <subject normal="Langues et linguistique">Langues et linguistique</subject>
+          <subject normal="Langues et linguistique">Langues et linguistique</subject>
+          <subject authfilenumber="ark:/12148/cb11932434c" normal="Mathématiques" source="BnF">Mathématiques</subject>
+          <subject authfilenumber="ark:/12148/cb119832928" normal="Médecine" source="BnF">Médecine</subject>
+          <subject>Théologie</subject>
+          <subject>Belles-Lettres</subject>
+          <subject>Jurisprudence</subject>
+          <subject>Histoires et Géographie</subject>
+          <subject>Grammaire</subject>
+          <subject>Dialectique</subject>
+          <subject>Astronomie</subject>
+          <subject>Rhétorique</subject>
+          <subject>Sciences et Arts</subject>
+        </controlaccess><daogrp linktype="extended">
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2474_min.jpg" linktype="locator" role="vignette"/>
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2474.jpg" linktype="locator" role="rebond"/>
+        </daogrp></c><c id="Fonds_2479" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">2479</unitid>
+          <unittitle>Fonds XVIe siècle</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1501/1600">1501-1600</unitdate>
+          <physdesc>
+            <physfacet type="état">Fonds en bon état</physfacet>
+            <extent>Volume total : 454 notice(s)</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="gre">grec moderne (après 1453)</language>
+            <language langcode="lat">latin</language>
+            <language langcode="ita">italien</language>
+            <language langcode="fre">français</language>
+          </langmaterial>
+        </did><otherfindaid>
+          <p>Il existe un catalogue et un inventaire papier.</p>
+          <p>Le Catalogue en ligne de la bibliothèque de Laon : <extref actuate="onrequest" href="http://biblio.ville-laon.fr/opacwebaloes/index.aspx" show="new">voir le catalogue</extref></p>
+          <p>CCFR : <extref actuate="onrequest" href="http://ccfr.bnf.fr/" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo>
+          <head>Responsable du fonds</head>
+          <p>Mme Laurence Richard</p>
+        </processinfo><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Inventorié</p>
+          <p>Catalogué</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : validée</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><bibliography>
+          <head>Document(s) remarquable(s)</head>
+          <bibref>Sanctum Iesu Christi Evangelium. 1541</bibref>
+          <bibref>Pomponii Melae de orbis situ libri tres... epistola Vadiani. 1540</bibref>
+          <bibref>Livre quatre des Annales... explications sur l'Histoire de France. Jean-Papire Masson, 1577</bibref>
+          <bibref>Comédie de Terence, Ed. Paris, 1529.</bibref>
+          <bibref>Histoire contre les païens, Paul Orose, 1506.</bibref>
+          <bibref>Regimen Sanitis, Arnaud de Villeneuve, imprimé à Paris par Michel Lenoir, 1501</bibref>
+        </bibliography><bibliography>
+          <head>Bibliographie</head>
+          <bibref>Patrimoine des bibliothèques de France Tome 2, Ed Payot, 1997.
+Bibliothèques publiques de l’Aisne, M. Abbé Pêcheur, Ed. Soissons, 1883.
+Histoire de Laon et de ses institutions Tome 1, M. Melleville, Ed. Laon, 1845. 
+Bibliothèque de l’ordre de Prémontré dans la France d’Ancien Régime, Mme Anne Bondéelle-Souchier, Ed. CNRS, 2000.
+Histoire des bibliothèques publiques du département de l'Aisne existant à Soissons, Laon et Saint- Quentin : avec notices, Ed. Soissons, 1883.</bibref>
+        </bibliography><custodhist>
+          <p>
+            <persname role="390">Abbaye de Vauclair</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Prémontré</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Saint-Vincent</persname>
+          </p>
+          <p>
+            <persname role="390">Cathédrale Notre-Dame de Laon</persname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Vauclair</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Prémontré</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Saint-Vincent</corpname>
+          </p>
+          <p>
+            <corpname role="390">Cathédrale Notre-Dame de Laon</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Le fonds du XVIe siècles est composé des  thématiques importantes de la période : Jurisprudence, Belles-lettres, Sciences et arts, Histoire et Géographie, la Théologie. Il est principalement composé de textes imprimés et de monographies. Nous pouvons découvrir dans ce fonds une magnifique édition du « Regimen Sanitatis » d’Arnaud de Villeneuve, imprimé à Paris, par Michel Lenoir daté de 1501. Dans un même recueil ont été reliées trois pièces relatives à la santé : « Regimen Sanitatis », « Origine et commencement de la maladie napolitaine », « Le trésor du remède de la peste ». Il est possible de découvrir aussi un curieux ouvrage "Le thresor et entire histoire de la triomphante victoire du corps de Dieu sur l'esprit maling Beelzebub, obtenuë à Laon l'an mil cinq cens soixante six ..." par Jehan Boulaese en 1578. Il décrit en français les étapes de l’exorcisme de Nicole Aubry.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds ancien" type="type de fonds">Fonds ancien</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Tous textes imprimés" type="type de document">Tous textes imprimés</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par langue</head>
+          <p>grec moderne (après 1453) : 8 notice(s)</p>
+          <p>italien : 10 notice(s)</p>
+          <p>français : 106 notice(s)</p>
+          <p>latin : 303 notice(s)</p>
+        </scopecontent><bioghist>
+          <p>Le fonds XVIe  de la Bibliothèque Municipale de Laon est constitué de 454 volumes. L’essentiel du fonds a été rassemblé lors des confiscations révolutionnaires des abbayes de Vauclair, de Prémontré, de Saint Vincent, de la Cathédrale Notre-Dame de Laon.
+Le fonds XVIe initialement constitué a subi de nombreuses pertes (vols, destruction, le bombardement de la ville en 1944), il reste l’un des fonds les plus précieux de la Bibliothèque de Laon.</p>
+        </bioghist><acqinfo>
+          <p>Saisies révolutionnaires, dons, legs.</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous et sur demande motivée.</p>
+          <p>Prêt : Non</p>
+          <p>Prêt inter-bibliothèques : Non</p>
+        </accessrestrict><userestrict>
+          <p>Reproduction : Possibilité de reproduction tarifée sur demande.
+Photographies sans flash autorisées pour usage personnel.
+Pour toute information complémentaire se reporter au règlement de l’établissement.</p>
+        </userestrict><prefercite>
+          <p>Citer sous la forme : Fonds XVIe siècle</p>
+          <p>Identifiant du fonds au sein de l’institution : XVI</p>
+        </prefercite><controlaccess>
+          <head>Thème(s)</head>
+          <subject>Jurisprudence: 72 volumes</subject>
+          <subject>Belles-lettres : 91 volumes</subject>
+          <subject>Sciences et arts : 68 volumes</subject>
+          <subject>Histoire et Géographie : 141 volumes</subject>
+          <subject>Théologie: 82 volumes</subject>
+        </controlaccess><daogrp linktype="extended">
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2479_min.jpg" linktype="locator" role="vignette"/>
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2479.jpg" linktype="locator" role="rebond"/>
+        </daogrp></c><c id="Fonds_2473" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">2473</unitid>
+          <unittitle>Incunables</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1450/1501">1450-1501</unitdate>
+          <physdesc>
+            <physfacet type="état">Bon état</physfacet>
+            <extent>Volume total : 51 volume(s)</extent>
+            <extent>Autre volumétrie : Belles Lettres : 7 volumes
+Jurisprudence : 14 volumes
+Histoire-Géographie : 3 volumes
+Sciences et Arts :  2 volumes
+Théologie : 25 volumes</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="fro">français ancien (842-ca. 1400)</language>
+            <language langcode="lat">latin</language>
+          </langmaterial>
+        </did><otherfindaid>
+          <p>Catalogue en ligne de la bibliothèque municipale de Laon : <extref actuate="onrequest" href="http://biblio.ville-laon.fr/opacwebaloes/index.aspx?IdPage=291" show="new">voir le catalogue</extref></p>
+          <p>CCFR : <extref actuate="onrequest" href="http://ccfr.bnf.fr/" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo>
+          <head>Responsable du fonds</head>
+          <p>Mme Laurence Richard</p>
+        </processinfo><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : validée</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><bibliography>
+          <head>Document(s) remarquable(s)</head>
+          <bibref>« Traité des propriétés des choses » Nuremberg, 1483, quelques lettrines coloriées.</bibref>
+          <bibref>« Missel à l’usage de Laon » imprimé par Jean Dupré, 1491, lettrines coloriées.</bibref>
+          <bibref>« Chronicarum liber », H. Schedel, Nurenberg, 1483, fig.s. bois.</bibref>
+          <bibref>« Roman de la rose », imprimé pour Antoine Vérard au XVe siècle, fig.s. bois.</bibref>
+          <bibref>"Regimen sanitatis en francois pour conserver le corps humain a vivre longuement, Le souverain remede contre lespidemie", 1501, Paris</bibref>
+          <bibref>« Arbolayre », 1490, imprimerie lyonnaise.</bibref>
+        </bibliography><custodhist>
+          <p>
+            <persname role="390">Abbaye de Vauclair</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Prémontré</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Saint-Vincent</persname>
+          </p>
+          <p>
+            <persname role="390">Cathédrale Notre-Dame de Laon</persname>
+          </p>
+          <p>
+            <persname role="390">M. L'Abbé l'Ecuy</persname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Vauclair</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Prémontré</corpname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Saint-Vincent</corpname>
+          </p>
+          <p>
+            <corpname role="390">Cathédrale Notre-Dame de Laon</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Le fonds des incunables se compose de 51 volumes. Il est divisé en plusieurs grandes thématiques : 25 volumes de théologie, 7 volumes de Belles Lettres, 14 volumes de jurisprudence, 3 volumes sur l'Histoire-Géographie et 2 volumes sur les Sciences et Arts</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds ancien" type="type de fonds">Fonds ancien</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Incunables" type="type de document">Incunables</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par type de document</head>
+          <p><genreform normal="Incunables" type="type de document">Incunables</genreform> : 51 volume(s)</p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par période</head>
+          <p>1450-1501 : 51 volume(s)</p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par thème</head>
+          <p>348 Lois, règlements, jurisprudence : 14 volume(s)</p>
+          <p>900 Géographie et histoire : 3 volume(s)</p>
+          <p>200 Religion : 25 volume(s)</p>
+          <p>500 Sciences naturelles et mathématiques : 2 volume(s)</p>
+          <p>800 Littérature : 7 volume(s)</p>
+        </scopecontent><scopecontent>
+          <head>Volumétrie par langue</head>
+          <p>français ancien (842-ca. 1400) : 8 volume(s)</p>
+          <p>latin : 43 volume(s)</p>
+        </scopecontent><bioghist>
+          <p>Le fonds des incunables de la Bibliothèque Municipale de Laon est constitué de 51 incunables. L’essentiel du fonds a été rassemblé lors des confiscations révolutionnaires des Abbayes de Vauclair, de Prémontré, de Saint Vincent, et de la Cathédrale Notre-Dame de Laon.
+Le fonds des incunables initialement constitué a subi de nombreuses pertes (vols, destruction, le bombardement de la ville en 1944).
+Le fonds des incunables de la bibliothèque de Laon demeure néanmoins remarquable.</p>
+        </bioghist><acqinfo>
+          <p>Saisies révolutionnaires, dons</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Incunables originaux : Consultation sur rendez-vous et sur demande motivée.</p>
+          <p>Prêt : Non</p>
+        </accessrestrict><userestrict>
+          <p>Reproduction : Possibilité de reproduction tarifée sur demande.
+Photographies sans flash autorisées pour usage personnel.
+Pour toute information complémentaire se reporter au règlement de l’établissement.</p>
+        </userestrict><prefercite>
+          <p>Citer sous la forme : Fonds Incunables</p>
+          <p>Identifiant du fonds au sein de l’institution : INC</p>
+        </prefercite><controlaccess>
+          <head>Thème(s)</head>
+          <subject authfilenumber="ark:/12148/cb11963568t" normal="Religion" source="BnF">Religion</subject>
+          <subject authfilenumber="ark:/12148/cb119344445" normal="Histoire" source="BnF">Histoire</subject>
+          <subject authfilenumber="ark:/12148/cb11955444t" normal="Géographie" source="BnF">Géographie</subject>
+          <subject authfilenumber="ark:/12148/cb13318687s" normal="Droit" source="BnF">Droit</subject>
+          <subject>Théologie</subject>
+          <subject>Sciences et arts</subject>
+          <subject>Belles lettres</subject>
+        </controlaccess><daogrp linktype="extended">
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2473_min.jpg" linktype="locator" role="vignette"/>
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2473.jpg" linktype="locator" role="rebond"/>
+        </daogrp></c><c id="Fonds_2476" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">2476</unitid>
+          <unittitle>Fonds d'Aguesseau</unittitle>
+          <unitdate calendar="gregorian" era="ce" normal="1501/1751">1501-1751</unitdate>
+          <physdesc>
+            <physfacet type="état">Bon état</physfacet>
+            <extent>Volume total : 360 volume(s)</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="eng">anglais</language>
+            <language langcode="lat">latin</language>
+            <language langcode="fre">français</language>
+            <language langcode="ita">italien</language>
+            <language langcode="spa">espagnol (ou castillan)</language>
+          </langmaterial>
+        </did><otherfindaid>
+          <p>Catalogue en ligne de la bibliothèque municipale de Laon : <extref actuate="onrequest" href="http://biblio.ville-laon.fr/opacwebaloes/index.aspx?IdPage=291" show="new">voir le catalogue</extref></p>
+          <p>CCFR : <extref actuate="onrequest" href="http://ccfr.bnf.fr/" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo>
+          <head>Responsable du fonds</head>
+          <p>Mme Laurence Richard</p>
+        </processinfo><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : validée</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><bibliography>
+          <head>Document(s) remarquable(s)</head>
+          <bibref>Trésors des trois langues française, italienne, espagnol, imprimé à Genève par Philippe Hubert et Alexandre Pernet.</bibref>
+          <bibref>Liber sextus decretalium D. Bonifacii Papae VIII,Edition	Expensis Udalrici Gering &amp; Magistri Berchtoldi Renbolt, 1501.</bibref>
+        </bibliography><bibliography>
+          <head>Bibliographie</head>
+          <bibref>Patrimoine des bibliothèques de France Tome 2, Ed Payot, 1997.
+Bibliothèques publiques de l’Aisne, M. Abbé Pêcheur, Ed. Soissons, 1883.
+Histoire de Laon et de ses institutions Tome 1, M. Melleville, Ed. Laon, 1845. 
+Bibliothèque de l’ordre de Prémontré dans la France d’Ancien Régime, Mme Anne Bondéelle-Souchier, Ed. CNRS, 2000.
+Catalogue des livres imprimés et manuscrits de la bibliothèque de feu M. Aguesseau, doyen du conseil, par M. Devise, Paris, 1785.</bibref>
+        </bibliography><custodhist>
+          <p>
+            <persname role="390">Henri François d’Aguesseau (1668-1751)</persname>
+          </p>
+          <p>
+            <persname role="390">Jean-Baptiste Paulin d’Aguesseau (1702-1784)</persname>
+          </p>
+          <p>
+            <persname role="390">Abbaye de Prémontré</persname>
+          </p>
+          <p>
+            <corpname role="390">Abbaye de Prémontré</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Tous les volumes sont reliés aux armes du chancelier : coquilles Saint-Jacques aux angles, masses d’armes entrecroisées au dos. 
+Le fonds d’Aguesseau est notamment composé d’une série d’Almanachs royaux dont le décor varie pour chaque année. Certaines des plaques ont été exécutées par le célèbre relieur Dubuisson.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds particulier" type="type de fonds">Fonds particulier</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Tous textes imprimés" type="type de document">Tous textes imprimés</genreform>
+          </p>
+          <p>
+            <genreform normal="Monographies" type="type de document">Monographies</genreform>
+          </p>
+        </scopecontent><bioghist>
+          <p>Le fonds d’Aguesseau de la Bibliothèque Municipale de Laon est constitué de 360 volumes imprimés. Le fonds est issu des confiscations révolutionnaires de l’Abbaye de Prémontré. En effet, le 14 Février 1785, M. Cerceau a acheté pour l’abbé de Saint-Martin (ordre du Prémontré), une partie de la bibliothèque de M. Jean Baptiste Paulin d’Aguesseau (1702-1784) lors de la vente d’Aguesseau de Paris.
+Héritée de son grand-père, le chancelier Henri-François d’Aguesseau (1668-1751), la bibliothèque du chancelier était composée de manuscrits, d’incunables, de livres imprimés et d’objets de collection.</p>
+        </bioghist><acqinfo>
+          <p>Saisies révolutionnaires.</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous et sur demande motivée.</p>
+          <p>Prêt : Non</p>
+          <p>Prêt inter-bibliothèques : Non</p>
+        </accessrestrict><userestrict>
+          <p>Reproduction : Possibilité de reproduction tarifée sur demande.
+Photographies sans flash autorisées pour usage personnel.
+Pour toute information complémentaire se reporter au règlement de l’établissement.</p>
+        </userestrict><prefercite>
+          <p>Citer sous la forme : Fonds Aguesseau</p>
+          <p>Identifiant du fonds au sein de l’institution : AIN</p>
+        </prefercite><controlaccess>
+          <head>Thème(s)</head>
+          <subject>Belles-lettres</subject>
+          <subject>Jurisprudence</subject>
+          <subject>Histoire et géographie</subject>
+          <subject>Théologie</subject>
+          <subject>Sciences et arts</subject>
+        </controlaccess><daogrp linktype="extended">
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2476_min.jpg" linktype="locator" role="vignette"/>
+          <daoloc href="https://ccfr.bnf.fr/portailccfr/images/fonds/Fonds_2476.jpg" linktype="locator" role="rebond"/>
+        </daogrp></c></dsc></archdesc></ead>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="Fonds_4186">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-786466101-4186" mainagencycode="751131015">FRFONDS-786466101-4186.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Bibliothèque municipale. Versailles, Yvelines. Fonds Z</titleproper>
+        <author encodinganalog="creator">Bibliothèque municipale. Versailles, Yvelines</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date encodinganalog="date" normal="20150708" type="date_de_la_première_édition">2015/07/08</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Encodé conformément à la DTD EAD 2002. L'encodage a été réalisé en 2021 par transformation d'un fichier XML extrait du Répertoire de fonds du CCFr.</creation>
+      <langusage>Catalogue rédigé en <language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+    <revisiondesc audience="internal">
+      <change>
+        <date>17/07/2015</date>
+        <item>Fonds Z : Ajout d'informations (Anne Guichard)</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="786466101" normal="Bibliothèque municipale. Versailles, Yvelines" source="Répertoire_des_Centres_de_Ressources">Bibliothèque municipale. Versailles, Yvelines</corpname>
+      </repository>
+      <unitid audience="internal" type="old_id_ccfr">4186</unitid>
+      <unittitle>Fonds Z</unittitle>
+      <physdesc>
+        <extent>Volume total : 2 895 notice(s)</extent>
+      </physdesc>
+      <abstract>Libre accès</abstract>
+    </did>
+    <otherfindaid>
+      <p>Catalogue informatisé du réseau des bibliothèques de Versailles : <extref actuate="onrequest" href="http://bibliotheque.versailles.fr/" show="new">voir le catalogue</extref></p>
+    </otherfindaid>
+    <processinfo>
+      <head>Responsable du fonds</head>
+      <p>Gwénaelle Cousin-Rossignol</p>
+    </processinfo>
+    <processinfo type="traitement du fonds">
+      <head>Traitement du fonds</head>
+      <p>Catalogué</p>
+    </processinfo>
+    <processinfo audience="internal">
+      <p>Statut de la notice : en modification</p>
+    </processinfo>
+    <accruals>
+      <p>Fonds ouvert</p>
+    </accruals>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds particulier" type="type de fonds">Fonds particulier</genreform>
+      </p>
+    </scopecontent>
+    <bioghist>
+      <p>Fonds en libre accès ouvert en 1989</p>
+    </bioghist>
+    <acqinfo>
+      <p>Acquisitions</p>
+    </acqinfo>
+    <accessrestrict>
+      <p>Accès : Aucune</p>
+      <p>Prêt : Prêt autorisé</p>
+      <p>Prêt inter-bibliothèques : En totalité</p>
+    </accessrestrict>
+    <userestrict>
+      <p>Reproduction : Photocopies autorisées</p>
+    </userestrict>
+    <prefercite>
+      <p>Citer sous la forme : Bibliothèque municipale. Versailles, Yvelines - Fonds Z</p>
+    </prefercite>
+  <dsc/></archdesc>
+</ead>

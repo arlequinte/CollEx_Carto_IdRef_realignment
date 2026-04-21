@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="Fonds_5710">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-590092233-5710" mainagencycode="751131015">FRFONDS-590092233-5710.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Université de Lille. Faculté des Humanités. Lille, Nord. Proche-Orient Ancien</titleproper>
+        <author encodinganalog="creator">Université de Lille. Faculté des Humanités. Lille, Nord</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date encodinganalog="date" normal="20210925" type="date_de_la_première_édition" era="ce" calendar="gregorian">2021/09/25</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>Catalogue rédigé en<language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="590092233" normal="Université de Lille. Faculté des Humanités. Lille, Nord" source="Répertoire_des_Centres_de_Ressources">Université de Lille. Faculté des Humanités. Lille, Nord</corpname>
+      </repository>
+      <unittitle>Proche-Orient Ancien</unittitle>
+      <abstract>histoire et archéologie</abstract>
+      <unitdate calendar="gregorian" era="ce" normal="1855/">1855-</unitdate>
+      <langmaterial>
+        <language langcode="akk">akkadien</language>
+        <language langcode="uga">ougaritique</language>
+        <language langcode="sux">sumérien</language>
+        <language langcode="hit">hittite</language>
+        <language langcode="fre">français</language>
+        <language langcode="ger">allemand</language>
+        <language langcode="eng">anglais</language>
+        <language langcode="ita">italien</language>
+        <language langcode="spa">espagnol (ou castillan)</language>
+      </langmaterial>
+      <physdesc>
+        <extent>Volume total : Volume total : 30 mètre(s) linéaire(s)</extent>
+      </physdesc>
+    </did>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Monographies" type="type de document">Monographies</genreform>
+      </p>
+      <p>
+        <genreform normal="Périodiques" type="type de document">Périodiques</genreform>
+      </p>
+      <p>
+        <genreform normal="Thèses" type="type de document">Thèses</genreform>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject authfilenumber="https://www.idref.fr/040753697" normal="Paléographie" source="IdRef">Paléographie</subject>
+      <subject authfilenumber="https://www.idref.fr/234853859" normal="Histoire (discipline)" source="IdRef">Histoire (discipline)</subject>
+      <subject>Langues, littératures et cultures anciennes (discipline)</subject>
+      <subject authfilenumber="https://www.idref.fr/02726971X" normal="Archéologie" source="IdRef">Archéologie</subject>
+      <subject authfilenumber="https://www.idref.fr/027636895" normal="Religion" source="IdRef">Religion</subject>
+      <subject authfilenumber="https://www.idref.fr/027531740" normal="Écriture cunéiforme" source="IdRef">Écriture cunéiforme</subject>
+      <subject authfilenumber="https://www.idref.fr/027218716" normal="Akkadien (langue)" source="IdRef">Akkadien (langue)</subject>
+      <subject authfilenumber="https://www.idref.fr/027845583" normal="Assyriologie" source="IdRef">Assyriologie</subject>
+      <subject>Antiquités</subject>
+      <subject>Civilisation assyro-babylonienne</subject>
+      <subject>Droit assyro-babylonien</subject>
+      <subject>Éblaïte (langue)</subject>
+      <subject>Écriture cunéiforme</subject>
+      <subject>Fouilles archéologiques</subject>
+      <subject>Inscriptions hittites</subject>
+      <subject>Inscriptions akkadiennes</subject>
+      <subject>Religion hittite</subject>
+      <subject>Tablettes à écrire</subject>
+      <subject>Sumériens</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Lieu(x) géographique(s)</head>
+      <geogname>Asie Mineure</geogname>
+      <geogname>Assyrie</geogname>
+      <geogname>Basse Mésopotamie (Irak)</geogname>
+      <geogname>Chypre</geogname>
+      <geogname>Haute-Mésopotamie</geogname>
+      <geogname>Irak</geogname>
+      <geogname>Kurdistan (Irak)</geogname>
+      <geogname>Liban</geogname>
+      <geogname>Mésopotamie</geogname>
+      <geogname>Moyen Orient</geogname>
+      <geogname>Proche Orient</geogname>
+      <geogname>Syrie</geogname>
+      <geogname>Turquie</geogname>
+    </controlaccess>
+    <accruals>
+      <p>Fonds ouvert</p>
+    </accruals>
+    <processinfo type="traitement du fonds">
+      <head>Traitement du fonds</head>
+      <p>Catalogué</p>
+    </processinfo>
+    <scopecontent>
+      <p>Le fonds est réparti en complémentarité entre deux bibliothèques du campus Pont-de-Bois de l’Université de Lille : la bibliothèque des Sciences de l’Antiquité et la bibliothèque universitaire Sciences Humaines et Sociales. L’achat régulier d’ouvrages dans le domaine de l’épigraphie, de l’histoire et de l’archéologie du Proche-Orient ancien permet au campus de Lille Sciences Humaines et Sociales de disposer d’un fonds documentaire sur le Proche-Orient qui répond aux besoins pédagogiques et scientifiques de l’université. Les ouvrages plus anciens sont conservés dans la Réserve patrimoniale de la la bibliothèque universitaire Sciences Humaines et Sociales.</p>
+    </scopecontent>
+    <otherfindaid>
+      <p>Lillocat, catalogue local de l’Université de Lille : <extref actuate="onrequest" href="https://lillocat.univ-lille.fr/" linktype="simple" show="new">voir le catalogue</extref></p>
+      <p>SUDOC : <extref actuate="onrequest" href="http://www.sudoc.abes.fr" linktype="simple" show="new">voir le catalogue</extref></p>
+    </otherfindaid>
+    <relatedmaterial>
+      <p>Villeneuve d'Ascq - Université de Lille. Service commun de la documentation - Proche-Orient Ancien <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/006FRFONDS-590092101-5698" linktype="simple" show="new">(Fonds lié)</extref></p>
+    </relatedmaterial>
+    <accessrestrict>
+      <p>Accès : Librement consultable</p>
+    </accessrestrict>
+    <dsc/>
+  </archdesc>
+</ead>

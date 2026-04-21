@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="Fonds_5734">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-751132304-5734" mainagencycode="751131015">FRFONDS-751132304-5734.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Médiathèque du musée du quai Branly - Jacques Chirac, Paris.. Carré, Louis</titleproper>
+        <author encodinganalog="creator">Médiathèque du musée du quai Branly - Jacques Chirac, Paris.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date encodinganalog="date" normal="20211009" type="date_de_la_première_édition">2021/10/09</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Encodé conformément à la DTD EAD 2002. L'encodage a été réalisé en 2021 par transformation d'un fichier XML extrait du Répertoire de fonds du CCFr.</creation>
+      <langusage>Catalogue rédigé en <language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="751132304" normal="Médiathèque du musée du quai Branly - Jacques Chirac, Paris." source="Répertoire_des_Centres_de_Ressources">Médiathèque du musée du quai Branly - Jacques Chirac, Paris.</corpname>
+      </repository>
+      <unitid audience="internal" type="old_id_ccfr">5734</unitid>
+      <unittitle>Carré, Louis</unittitle>
+      <abstract>Documents et photographies  sur la collection de ce galeriste mais aussi une série d'évènements  marquants de  l'histoire de l'art non-occidentale</abstract>
+    </did>
+    <otherfindaid>
+      <p>Catalogue des archives : <extref actuate="onrequest" href="http://archives.quaibranly.fr:8990/?id=recherche_grandpublic_detail&amp;doc=accounts/mnesys_quaibranly/datas/ir%2FFonds%206%20-%20Archives%20priv%C3%A9es%2FQUAIBR75_00000208%2Exml" show="new">voir le catalogue</extref></p>
+    </otherfindaid>
+    <processinfo type="traitement du fonds">
+      <head>Traitement du fonds</head>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+      <p>Catalogué</p>
+    </processinfo>
+    <processinfo>
+      <p>Expositions "d'art primitif : Cote DA001308</p>
+      <p>Documentation sur les arts : Cotes DA001300 à DA001302 - DA001307</p>
+      <p>"Arts primitifs" -  ventes 1931-1932 : Cote DA001305</p>
+      <p>Eckart Von Sydow. Manuscrits et archives : Cote DA001306</p>
+      <p>Photographies : Cotes DA001296- DA001297, DA001299, DA001303 à DA001304</p>
+      <p>Documentation et exposition sur l'art et la culture du royaume de Bénin : Cotes DA001294 et DA001295</p>
+      <p>Revues de presse : Cote DA001293</p>
+    </processinfo>
+    <processinfo audience="internal">
+      <p>Statut de la notice : en modification</p>
+    </processinfo>
+    <accruals>
+      <p>Fonds clos</p>
+    </accruals>
+    <scopecontent>
+      <p>Dès 1978, les héritiers de Louis Carré donnèrent à l'Etat  (Archives Nationales : 389AP) une grande partie des archives  de  ce galeriste qui exposa  dans les années 1930 l'art moderne de son temps (Paul Klee, Juan Gris, Picasso, Calder, Léger&amp;). Deux ans après l'ouverture du musée, en 2008, son petit-fils, Patrick Bongers, donna  toutes les archives  concernant les activités de son grand-père liées aux arts non-occidentaux.  
+
+A l'instar de Charles Ratton, Louis carré participa pourtant activement dans les années 1930 à la diffusion et à la valorisation de ces arts en France mais aussi aux Etats-Unis  en tant qu'expert, galeriste et prêteur. Ce don exceptionnel est notamment constitué de documents et photographies  concernant  sa collection mais aussi une série d'évènements  marquants de  l'histoire de l'art non-occidentale, notamment  la vente  des collections Eluard Breton de 1931, l'exposition « Bronzes et ivoires du royaume du Bénin » du  musée d'ethnographie du Trocadéro  en 1932 ou encore  « African Negro  Art» présentée en 1935 au Museum of Modern Art de New-York . 
+
+Un des aspects inédits de ce fonds concerne  l'exposition peu connue et surtout peu documentée « Les arts dits primitifs dans la maison d'aujourd'hui »,  qu'il réalisa en 1935 avec son voisin et ami  l'architecte Le Corbusier. Ces archives révèlent également les méthodes de travail du galeriste. Nous y trouvons des articles d'historiens, d'historien de l'art  francophones et anglophones, des  catalogues de vente, des cartons d'invitation  mais aussi de la documentation sur les activités des intellectuels africains-américains de l'époque.  
+
+Enfin, les revues de presse qu'il constitua sont une source majeure  pour étudier la vie artistique et intellectuelle lié aux arts non-occidentaux en France, en Europe et aux Etats-Unis dans les années 1930.</p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Archives" type="type de document">Archives</genreform>
+      </p>
+    </scopecontent>
+    <accessrestrict>
+      <p>Accès : Toute personne faisant une demande de consultation peut venir consulter les archives du musée du quai Branly - Jacques Chirac. Prise de rendez-vous en renvoyant le formulaire téléchargeable en ligne à mediatheque[at]quaibranly.fr ou sur place depuis la médiathèque de recherche.</p>
+    </accessrestrict>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject normal="Anthropologie et ethnologie">Anthropologie et ethnologie</subject>
+      <subject authfilenumber="ark:/12148/cb11935712m" normal="Arts" source="BnF">Arts</subject>
+      <subject>Arts premiers</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Lieu(x) géographique(s)</head>
+      <geogname>Bénin</geogname>
+    </controlaccess>
+    <controlaccess>
+      <head>Personne(s) liée(s)</head>
+      <persname>Carré, Louis (1897-1977)</persname>
+    </controlaccess>
+  <dsc/></archdesc>
+</ead>

@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="Fonds_5487"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-920125201-5487" mainagencycode="751131015">FRFONDS-920125201-5487.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine. 1. Psychologie</titleproper>
+        <author encodinganalog="creator">Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date encodinganalog="date" normal="20210528" type="date_de_la_première_édition">2021/05/28</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Encodé conformément à la DTD EAD 2002. L'encodage a été réalisé en 2021 par transformation d'un fichier XML extrait du Répertoire de fonds du CCFr.</creation>
+      <langusage>Catalogue rédigé en <language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader><archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="920125201" normal="Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine" source="Répertoire_des_Centres_de_Ressources">Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine</corpname>
+      </repository>
+      <unitid audience="internal" type="old_id_ccfr">5487</unitid>
+      <unittitle>1. Psychologie</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="1741/9999">1741-9999</unitdate>
+      <abstract>Enseignement et institutionnalisation</abstract>
+    </did>
+    <processinfo audience="internal">
+      <p>Statut de la notice : en modification</p>
+    </processinfo>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject normal="150 Psychologie, Psychanalyse">150 Psychologie, Psychanalyse</subject>
+      <subject normal="Psychologie, psychanalyse">Psychologie, psychanalyse</subject>
+    </controlaccess>
+    <dsc>
+      
+      
+      
+      
+    <c id="Fonds_5485" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">5485</unitid>
+          <unittitle>1.C Testothèque historique</unittitle>
+          <abstract>Tests psychologiques, XXe siècle</abstract>
+          <unitdate calendar="gregorian" era="ce" normal="1921/9999">1921-9999</unitdate>
+          <physdesc>
+            <extent>Volume total : 7 mètre(s) linéaire(s)</extent>
+            <extent>Autre volumétrie : Provenance :
+- Bibliothèque de l'Institut de psychologie, en Sorbonne, des années 1920 au début des années 1960 (dont un Rorschach édité par Bircher en 1921, un Army Alpha test de 1925) : 0,64 ml.
+- Paul Fraisse (dont test de rendement de Stanford, tests du National Institute of Industrial psychology, de Mme Henri Piéron) : 0,05 ml.
+- Laboratoire de psychologie sociale (Université Paris Diderot)
+- Claude Lévy-Leboyer (dont tests conçus par elle-même) : 0,5 ml.
+- Jessica Schulz (dont Rorschach diffusé par les PUF en 1947, Meili, Kuder) : 0,1 ml.
+- Laboratoire de psychologie différentielle (Université Paris Descartes) : 1 ml.
+- Bibliothèque des Grands Moulins : 0,2 ml.
+- Centre d'Information et d'Orientation de Versailles : 2,6 ml.
+- divers : 0,1 ml.
+- Pierre Roche : 1,8 ml.</extent>
+          </physdesc>
+        </did><relatedmaterial>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 1.B Fonds de l'Institut de psychologie (Paris, 1920-1969). Imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5358" show="new">(Fonds lié)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 2.B Fonds Paul Fraisse (1911-1996). Archives et imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5359" show="new">(Fonds lié)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 4.A Fonds du Laboratoire de psychologie sociale (Paris, 1952-1988). Archives, imprimés et objets <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5339" show="new">(Fonds lié)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 4.H Fonds Claude Lévy-Leboyer (1928-2015). Imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5338" show="new">(Fonds lié)</extref></p>
+        </relatedmaterial><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Aucun</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : en modification</p>
+        </processinfo><accruals>
+          <p>Fonds ouvert</p>
+        </accruals><scopecontent>
+          <p>Collection de tests anciens de tous types constituée par la bibliothèque depuis le début du XXe siècle, qui s'est enrichie au gré des dons. A la différence de la testothèque de l'actuelle UFR de psychologie d'Université de Paris, cet ensemble ne s'adresse pas aux psychologues en activité, mais aux historiens.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+          </p>
+          <p>
+            <genreform normal="Fonds spécialisé" type="type de fonds">Fonds spécialisé</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Tous objets" type="type de document">Tous objets</genreform>
+          </p>
+        </scopecontent><acqinfo>
+          <p>Achat(s), Don(s)</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous uniquement. Veuillez prendre contact avec l'établissement en motivant votre demande.</p>
+        </accessrestrict><controlaccess>
+          <head>Thème(s)</head>
+          <subject normal="150.287 Psychologie - Tests et mesures ">150.287 Psychologie - Tests et mesures </subject>
+          <subject normal="Psychologie, psychanalyse">Psychologie, psychanalyse</subject>
+          <subject>Tests d'aptitude</subject>
+          <subject>Tests d'intelligence</subject>
+          <subject>Tests de personnalité</subject>
+          <subject>Tests de recrutement</subject>
+          <subject>Techniques projectives</subject>
+          <subject>Orientation professionnelle</subject>
+        </controlaccess><controlaccess>
+          <head>Personne(s) morale(s) liée(s)</head>
+          <corpname>Institut de psychologie (Paris). Bibliothèque</corpname>
+        </controlaccess></c><c id="Fonds_5358" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">5358</unitid>
+          <unittitle>1.B Fonds de l'Institut de psychologie (Paris, 1920-1969). Imprimés</unittitle>
+          <abstract>Bibliothèque d'enseignement et recherche</abstract>
+          <unitdate calendar="gregorian" era="ce" normal="1741/1969">1741-1969</unitdate>
+          <physdesc>
+            <extent>Volume total : 19100 notice(s)</extent>
+            <extent>Autre volumétrie : Livres du fonds général (1741-1969) : 8000 notices
+Livres du fonds Marcel François (1900-1937) : 53 notices
+Tirés à part (1849-1969) : 11027 notices</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="fre">français</language>
+            <language langcode="eng">anglais</language>
+            <language langcode="ger">allemand</language>
+            <language langcode="ita">italien</language>
+          </langmaterial>
+        </did><relatedmaterial>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 2.A Fonds du Laboratoire de psychologie physiologique (Paris, 1889-1925). Imprimés et photographies <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5326" show="new">(Fonds lié)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 1.C Testothèque historique <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5485" show="new">(Testothèque de la bibliothèque.)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 1.A Fonds Henri Piéron (1881-1964). Archives et imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5330" show="new">(Fonds Henri Piéron, directeur de l'Institut de psychologie.)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 2.B Fonds Paul Fraisse (1911-1996). Archives et imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5359" show="new">(Fonds Paul Fraisse, directeur de l'Institut de psychologie.)</extref></p>
+        </relatedmaterial><otherfindaid>
+          <p>Dans les archives de la bibliothèque :
+- "Bibliothèque de l'Institut de psychologie à la Sorbonne : registre d'entrée - livres" (1937-1954)
+- second registre de la Sorbonne (1954-1962)
+Après déménagement rue Serpente (Paris VIe), réorganisation et mise en place de la cotation séquentielle actuelle :
+- registre I[nstitut de] P[sychologie] 716a : cotes 1-2898
+- registre IP 716b : cotes 4000-6000
+- registre IP 716c : cotes 2899-3999, 7000-8798</p>
+          <p>Catalogue des bibliothèques d'Université de Paris : <extref actuate="onrequest" href="https://u-paris.fr/bibliotheques/" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+          <p>Catalogué</p>
+        </processinfo><processinfo>
+          <p>Livres : cotes 1-8283</p>
+          <p>Tirés à part : 246 recueils cotés IPSY TAP</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : en modification</p>
+        </processinfo><bibliography>
+          <head>Bibliographie</head>
+          <bibref>600 unités de documentation intéressant les sciences sociales et humaines.... 1, Paris et région parisienne, Paris, MSH, 1971, n° 235.</bibref>
+        </bibliography><custodhist>
+          <p>
+            <persname role="390">UER Institut de psychologie de l'Université René Descartes (de 1969 à 1984).</persname>
+          </p>
+          <p>
+            <corpname role="390">UER Institut de psychologie de l'Université René Descartes (de 1969 à 1984).</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Bibliothèque de l'Institut de psychologie fondé en 1920, constituée par Henri Piéron et Paul Fraisse à des fins pédagogiques et de recherche. Elle documente toutes les branches de la psychologie, à l'exception de la psychologie clinique, et laisse peu de place à la psychanalyse. La collection de 11000 tirés à part reliés en recueils thématiques constituait un fleuron de la bibliothèque ; regroupée chronologiquement par trains de reliure, elle permet de suivre l'évolution des centres d'intérêt, de la fin des années 1920 aux années 1960.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+          </p>
+          <p>
+            <genreform normal="Fonds spécialisé" type="type de fonds">Fonds spécialisé</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Monographies" type="type de document">Monographies</genreform>
+          </p>
+          <p>
+            <genreform normal="Périodiques" type="type de document">Périodiques</genreform>
+          </p>
+          <p>
+            <genreform normal="Recueils" type="type de document">Recueils</genreform>
+          </p>
+          <p>
+            <genreform normal="Thèses" type="type de document">Thèses</genreform>
+          </p>
+          <p>
+            <genreform normal="Littérature grise" type="type de document">Littérature grise</genreform>
+          </p>
+        </scopecontent><bioghist>
+          <p>Le fonds initial est celui du Laboratoire de psychologie physiologique qu’Henri Piéron versa en 1925 à l’Institut de psychologie, alors dépourvu de bibliothèque. Directeur de la revue l’Année Psychologique, Piéron donnait régulièrement à la bibliothèque de l’Institut les livres et tirés à part reçus pour recension, ainsi que les revues obtenues par échange. Après la guerre, les dons de l’Année Psychologique ont constitué l’essentiel des accroissements. En 1971, cette bibliothèque consistait en 8000 volumes et 150 périodiques environ, spécialisés en psychologie, auxquels s'ajoutait le Fonds Henri Piéron.
+
+De 1969 à 1984, la Bibliothèque Henri-Piéron, dirigée par Paul Fraisse, est celle de l'UER Institut de psychologie, puis elle est intégrée au Service commun de la documentation de l’Université Paris Descartes (devenu en 2021 la Direction des bibliothèques et musées d'Université de Paris).
+
+Les tests provenant de la bibliothèque de l'Institut de psychologie (8 cartons) sont regroupés dans la testothèque historique.</p>
+        </bioghist><acqinfo>
+          <p>Don(s)</p>
+          <p>1984</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous uniquement. Veuillez prendre contact avec l'établissement en motivant votre demande.</p>
+        </accessrestrict><controlaccess>
+          <head>Thème(s)</head>
+          <subject normal="150 Psychologie, Psychanalyse">150 Psychologie, Psychanalyse</subject>
+          <subject normal="150.724 Recherche expérimentale (psychologie)">150.724 Recherche expérimentale (psychologie)</subject>
+          <subject normal="612.8 Psychophysiologie">612.8 Psychophysiologie</subject>
+          <subject normal="Psychologie, psychanalyse">Psychologie, psychanalyse</subject>
+          <subject>Orientation professionnelle</subject>
+          <subject>Psychologie appliquée</subject>
+        </controlaccess><controlaccess>
+          <head>Lieu(x) géographique(s)</head>
+          <geogname>Paris</geogname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) liée(s)</head>
+          <persname>Piéron, Henri (1881-1964)</persname>
+          <persname>Fraisse, Paul (1911-1996)</persname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) morale(s) liée(s)</head>
+          <corpname>Institut de psychologie (Paris). Bibliothèque</corpname>
+        </controlaccess></c><c id="Fonds_5330" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">5330</unitid>
+          <unittitle>1.A Fonds Henri Piéron (1881-1964). Archives et imprimés</unittitle>
+          <abstract>Psychologie expérimentale, orientation professionnelle et institutionnalisation de la psychologie en France</abstract>
+          <unitdate calendar="gregorian" era="ce" normal="1859/1964">1859-1964</unitdate>
+          <physdesc>
+            <extent>Volume total : 13500 unité(s)</extent>
+            <extent>Autre volumétrie : Livres (1859-1964) : 1120 volumes
+Correspondance passive (1896-1963) : 12324 lettres
+Archives (1900-1963) : 56 dossiers</extent>
+          </physdesc>
+        </did><relatedmaterial>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 1.B Fonds de l'Institut de psychologie (Paris, 1920-1969). Imprimés <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5358" show="new">(Fonds de l'Institut de psychologie, fondé par Henri Piéron en 1920.)</extref></p>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 2.A Fonds du Laboratoire de psychologie physiologique (Paris, 1889-1925). Imprimés et photographies <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5326" show="new">(Fonds du Laboratoire de psychologie physiologique, dirigé par Henri Piéron à partir de 1912.)</extref></p>
+          <p>
+            <extref actuate="onrequest" href="https://www.siv.archives-nationales.culture.gouv.fr/siv/IR/FRAN_IR_004401" show="new">Pour des raisons de conservation, une partie du fonds Henri Piéron fut déposée aux Archives Nationales en 1988 (cote 520 AP).</extref>
+          </p>
+          <p>
+            <extref actuate="onrequest" href="https://salamandre.college-de-france.fr/archives-en-ligne/ead.html?id=FR075CDF_00CDF0016&amp;c=FR075CDF_00CDF0016_de-728" show="new">Fonds Henri Piéron au Collège de France (cote 16 CDF 339)</extref>
+          </p>
+          <p>
+            <extref actuate="onrequest" href="https://www.aspi.unimib.it/" show="new">Archivio storico della psicologia italiana : lettres de Piéron adressées à des psychologues italiens.</extref>
+          </p>
+        </relatedmaterial><altformavail>
+          <p>Archivio storico della psicologia italiana : lettres de Piéron adressées à des psychologues italiens. : <extref actuate="onrequest" href="https://www.aspi.unimib.it/" linktype="simple" show="new">voir la numérisation.</extref></p>
+        </altformavail><otherfindaid>
+          <p>Registre des "15000", dans les archives de la bibliothèque.</p>
+          <p>Catalogue des bibliothèques d'Université de Paris : <extref actuate="onrequest" href="https://u-paris.fr/bibliotheques/" show="new">voir le catalogue</extref></p>
+          <p>Calames : <extref actuate="onrequest" href="http://www.calames.abes.fr/pub/ms/FileId-2384" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+          <p>Catalogué</p>
+        </processinfo><processinfo>
+          <p>Livres : cotes 15000-15886 et passim</p>
+          <p>Correspondance et archives : cote 1FP</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : en modification</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><custodhist>
+          <p>
+            <persname role="390">Institut de psychologie de l'Université de Paris (de 1964 à 1969), puis UER Institut de psychologie de l'Université René Descartes (de 1969 à 1984).</persname>
+          </p>
+          <p>
+            <corpname role="390">Institut de psychologie de l'Université de Paris (de 1964 à 1969), puis UER Institut de psychologie de l'Université René Descartes (de 1969 à 1984).</corpname>
+          </p>
+        </custodhist><scopecontent>
+          <p>Bibliothèque et archives personnelles d'Henri Piéron, premier directeur de l'Institut de psychologie de Paris (1920-1951). La correspondance passive est particulièrement abondante, émanant de 1696 auteurs, et concerne tant les activités scientifiques et institutionnelles de Piéron que la constitution de la bibliothèque de l'Institut de psychologie. Les archives comprennent des notes scientifiques, des notes sur la recherche et l'enseignement de la psychologie à l'INOP, à l'Institut de psychologie, à l'Institut Marey, des dossiers sur l'organisation des congrès internationaux de psychotechnique.</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+          </p>
+          <p>
+            <genreform normal="Fonds particulier" type="type de fonds">Fonds particulier</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Monographies" type="type de document">Monographies</genreform>
+          </p>
+          <p>
+            <genreform normal="Textes manuscrits" type="type de document">Textes manuscrits</genreform>
+          </p>
+          <p>
+            <genreform normal="Littérature grise" type="type de document">Littérature grise</genreform>
+          </p>
+          <p>
+            <genreform normal="Archives" type="type de document">Archives</genreform>
+          </p>
+          <p>
+            <genreform normal="Affiches" type="type de document">Affiches</genreform>
+          </p>
+          <p>
+            <genreform normal="Photographies" type="type de document">Photographies</genreform>
+          </p>
+          <p>
+            <genreform normal="Cartes postales" type="type de document">Cartes postales</genreform>
+          </p>
+        </scopecontent><acqinfo>
+          <p>Legs</p>
+          <p>1964</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous uniquement. Veuillez prendre contact avec l'établissement en motivant votre demande.</p>
+        </accessrestrict><controlaccess>
+          <head>Thème(s)</head>
+          <subject normal="150.724 Recherche expérimentale (psychologie)">150.724 Recherche expérimentale (psychologie)</subject>
+          <subject normal="152  Perception sensorielle, mouvement, émotions, pulsions physiologiques">152  Perception sensorielle, mouvement, émotions, pulsions physiologiques</subject>
+          <subject normal="612.8 Psychophysiologie">612.8 Psychophysiologie</subject>
+          <subject normal="Psychologie, psychanalyse">Psychologie, psychanalyse</subject>
+          <subject>Orientation professionnelle</subject>
+          <subject>Psychologie animale</subject>
+          <subject>Tests d'aptitude</subject>
+          <subject>Vision des couleurs</subject>
+        </controlaccess><controlaccess>
+          <head>Lieu(x) géographique(s)</head>
+          <geogname>Paris</geogname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) liée(s)</head>
+          <persname>Piéron, Henri (1881-1964)</persname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) morale(s) liée(s)</head>
+          <corpname>Laboratoire de psychologie physiologique (Paris)</corpname>
+          <corpname>Institut de psychologie (Paris)</corpname>
+          <corpname>Université de Paris (1896-1968)</corpname>
+          <corpname>Collège de France</corpname>
+          <corpname>Institut national d'étude du travail et d'orientation professionnelle (France)</corpname>
+          <corpname>Institut Marey (Parc des Princes, Boulogne-Billancourt)</corpname>
+        </controlaccess></c><c id="Fonds_5456" level="subfonds"><did>
+          <unitid audience="internal" type="old_id_ccfr">5456</unitid>
+          <unittitle>1.D  Fonds Jean Patard (1923-2010). Archives</unittitle>
+          <abstract>Notes de cours de psychologie et de psychanalyse, d'anthropologie et d'ethnologie (Clermont-Ferrand, Paris)</abstract>
+          <unitdate calendar="gregorian" era="ce" normal="1942/2006">1942-2006</unitdate>
+          <physdesc>
+            <extent>Volume total : 162 notice(s)</extent>
+          </physdesc>
+          <langmaterial>
+            <language langcode="fre">français</language>
+          </langmaterial>
+        </did><relatedmaterial>
+          <p>Boulogne Billancourt - Université de Paris -Bibliothèque de psychologie Henri Piéron. Direction des bibliothèques. . Boulogne-Billancourt, Hauts-de-Seine - 4.B Fonds Robert Pagès (1919-2007). Archives <extref actuate="onrequest" href="https://ccfr.bnf.fr/portailccfr/ark:/06871/007Fonds_5337" show="new">(Cours de psychologie sociale suivis à l'Institut de psychologie en 1953-1954.)</extref></p>
+        </relatedmaterial><otherfindaid>
+          <p>Calames : <extref actuate="onrequest" href="http://www.calames.abes.fr/pub/ms/FileId-3523" show="new">voir le catalogue</extref></p>
+        </otherfindaid><processinfo type="traitement du fonds">
+          <head>Traitement du fonds</head>
+          <p>Catalogué</p>
+        </processinfo><processinfo>
+          <p>Cote 9FP</p>
+        </processinfo><processinfo audience="internal">
+          <p>Statut de la notice : en modification</p>
+        </processinfo><accruals>
+          <p>Fonds clos</p>
+        </accruals><scopecontent>
+          <p>Notes de cours de psychologie prises par Jean Patard de 1942 à 1954 :
+- à Clermont-Ferrand en 1942-1945 (cours de Daniel Lagache à l'Université de Strasbourg repliée en zone libre, qui inspirera la licence de psychologie instituée en 1947)
+- à la Faculté des lettres de Paris en 1946-1947
+- à l'Institut de psychologie de Paris, l'année de la création de la licence de psychologie (1947-1948) et jusqu'au début des années 50. Ces notes très ordonnées et parfois mises au net complètent les résumés des cours publiés dans le 'Bulletin de psychologie'. Les fiches de travaux pratiques de psychologie expérimentale documentent avec précision l'usage des appareils de l'Institut de psychologie, actuellement conservés au musée. Celles de psychologie sociale (1953-1954) complètent les archives de Robert Pagès qui dirigeait ce séminaire.
+
+Transcription du séminaire du psychanalyste Jacques-Alain Miller (1981-2006) et dossiers sur les associations lacaniennes de psychanalyse (activités, programmes de journées d'études, bulletins, catalogues d'éditeurs).</p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de fonds</head>
+          <p>
+            <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+          </p>
+          <p>
+            <genreform normal="Fonds particulier" type="type de fonds">Fonds particulier</genreform>
+          </p>
+        </scopecontent><scopecontent>
+          <head>Type(s) de document(s)</head>
+          <p>
+            <genreform normal="Textes manuscrits" type="type de document">Textes manuscrits</genreform>
+          </p>
+          <p>
+            <genreform normal="Littérature grise" type="type de document">Littérature grise</genreform>
+          </p>
+          <p>
+            <genreform normal="Cassettes audio" type="type de document">Cassettes audio</genreform>
+          </p>
+        </scopecontent><acqinfo>
+          <p>Don(s)</p>
+          <p>2017, 2021</p>
+        </acqinfo><accessrestrict>
+          <p>Accès : Consultation sur rendez-vous uniquement. Veuillez prendre contact avec l'établissement en motivant votre demande.</p>
+        </accessrestrict><controlaccess>
+          <head>Thème(s)</head>
+          <subject normal="150 Psychologie, Psychanalyse">150 Psychologie, Psychanalyse</subject>
+          <subject normal="150.195 Psychanalyse">150.195 Psychanalyse</subject>
+          <subject normal="Psychologie, psychanalyse">Psychologie, psychanalyse</subject>
+          <subject normal="Anthropologie et ethnologie">Anthropologie et ethnologie</subject>
+          <subject>Lacan, Jacques (1901-1981) -- Critique et interprétation</subject>
+        </controlaccess><controlaccess>
+          <head>Lieu(x) géographique(s)</head>
+          <geogname>Paris</geogname>
+          <geogname>Clermont-Ferrand</geogname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) liée(s)</head>
+          <persname>Patard, Jean (1923-2010)</persname>
+          <persname>Lagache, Daniel (1903-1972)</persname>
+          <persname>Miller, Jacques-Alain (1944-....)</persname>
+          <persname>Pommier, Gérard (1941-....)</persname>
+        </controlaccess><controlaccess>
+          <head>Personne(s) morale(s) liée(s)</head>
+          <corpname>Université de Strasbourg (1538-1970)</corpname>
+          <corpname>Institut de psychologie (Paris)</corpname>
+          <corpname>École de la cause freudienne (Paris)</corpname>
+          <corpname>Fondation du champ freudien</corpname>
+          <corpname>Groupe de recherche et d'application des concepts psychanalytiques à la psychose (France)</corpname>
+          <corpname>Analyse nouvelle expérience (Paris)</corpname>
+        </controlaccess></c></dsc>
+  </archdesc></ead>

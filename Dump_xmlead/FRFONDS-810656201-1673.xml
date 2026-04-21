@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd"><ead id="Fonds_1673">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-810656201-1673" mainagencycode="751131015">FRFONDS-810656201-1673.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Médiathèque. Castres, Tarn. Gérard Heuillet</titleproper>
+        <author encodinganalog="creator">Médiathèque. Castres, Tarn</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date encodinganalog="date" normal="20090625" type="date_de_la_première_édition">2009/06/25</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation audience="internal">Encodé conformément à la DTD EAD 2002. L'encodage a été réalisé en 2021 par transformation d'un fichier XML extrait du Répertoire de fonds du CCFr.</creation>
+      <langusage>Catalogue rédigé en <language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="810656201" normal="Médiathèque. Castres, Tarn" source="Répertoire_des_Centres_de_Ressources">Médiathèque. Castres, Tarn</corpname>
+      </repository>
+      <unitid audience="internal" type="old_id_ccfr">1673</unitid>
+      <unittitle>Gérard Heuillet</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="1501/1700">1501-1700</unitdate>
+      <langmaterial>
+        <language langcode="fre">français</language>
+        <language langcode="oci">occitan (après 1500)</language>
+      </langmaterial>
+      <physdesc>
+        <physfacet type="état">Désinfection par fumigation en 2003</physfacet>
+        <extent>Volume total : 4 565 volume(s)</extent>
+      </physdesc>
+      <abstract>Fonds consacré au Tarn</abstract>
+    </did>
+    <otherfindaid>
+      <p>Catalogue sur fiches
+Inventaire manuscrit</p>
+    </otherfindaid>
+    <processinfo>
+      <head>Responsable du fonds</head>
+      <p>Catherine Salvan</p>
+    </processinfo>
+    <processinfo audience="internal">
+      <p>Statut de la notice : validée</p>
+    </processinfo>
+    <accruals>
+      <p>Fonds clos</p>
+    </accruals>
+    <bibliography>
+      <head>Bibliographie</head>
+      <bibref>Louis Desgraves.Répertoire bibliographique des livres imprimés à Castres</bibref>
+    </bibliography>
+    <custodhist>
+      <p>
+        <persname role="390">Gérard Heuillet (1893-1980), ancien maire de Soual (Tarn)</persname>
+      </p>
+    </custodhist>
+    <scopecontent>
+      <p>Ce fonds de livres et de brochures remarquables comporte en particulier des impressions castraises des 17ème et 18ème siècles , des livres d'auteurs tarnais, des origines à la fin du 19ème siècle, des éditions en langue occitane du 17ème siècle au 20ème siècle, des brochures rares ainsi que des gravures anciennes de caractère local.
+
+Nombreuses brochures et livres inédits ; éditions castraises et du Sud-Ouest tels Lavaur, Uzès, Ambialet, Gaillac, Réalmont, etc.,  portant sur des sujets relatifs à l'histoire ou à la culture méridionale</p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds régional" type="type de fonds">Fonds régional</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Recueils" type="type de document">Recueils</genreform>
+      </p>
+      <p>
+        <genreform normal="Monographies" type="type de document">Monographies</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Volumétrie par période</head>
+      <p>1501-1600 : 37 volume(s)</p>
+      <p>1601-1700 : 228 volume(s)</p>
+      <p>1701-1800 : 473 volume(s)</p>
+      <p>1801-1900 : 743 volume(s)</p>
+    </scopecontent>
+    <scopecontent>
+      <head>Volumétrie par langue</head>
+      <p>français : 980 volume(s)</p>
+      <p>occitan (après 1500) : 234 volume(s)</p>
+    </scopecontent>
+    <bioghist>
+      <p>Maire de Soual de 1947 à 1965, Gérard Heuillet, décédé en 1980, avait constitué au fil de son existence, une bibliothèque personnelle de près de 5000 volumes d'une exceptionnelle richesse.
+En 1985 , la Ville de Castres s'est portée acquéreur (pour 900 000 francs) de cette bibliothèque avec le concours financier, entre autres, de la Société culturelle du Pays castrais et du Conseil général deTarn.</p>
+    </bioghist>
+    <acqinfo>
+      <p>Achats</p>
+      <p>Achat(s)</p>
+    </acqinfo>
+    <accessrestrict>
+      <p>Prêt : Consultation sur place</p>
+    </accessrestrict>
+    <prefercite>
+      <p>Citer sous la forme : Bibliothèque municipale. Castres, Tarn - Gérard Heuillet</p>
+    </prefercite>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject authfilenumber="ark:/12148/cb11939456c" normal="Littérature" source="BnF">Littérature</subject>
+      <subject>Tarn</subject>
+      <subject>Poésie</subject>
+      <subject>Contes</subject>
+      <subject>Langue d'Oc</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Lieu(x) géographique(s)</head>
+      <geogname>Castres</geogname>
+      <geogname>Sud-Ouest</geogname>
+    </controlaccess>
+  <dsc/></archdesc>
+</ead>

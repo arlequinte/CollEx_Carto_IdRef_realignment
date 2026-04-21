@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead id="b2156027">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="dc" repositoryencoding="iso15511" scriptencoding="iso15924">
+    <eadid countrycode="fr" encodinganalog="identifier" identifier="FRFONDS-290192210-1ob" mainagencycode="751131015">FRFONDS-290192210-1ob.xml</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Centre de recherche bretonne et celtique (CRBC). Bibliothèque - André, Patrick</titleproper>
+        <author encodinganalog="creator">Centre de recherche bretonne et celtique (CRBC). Bibliothèque</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Bibliothèque nationale de France</publisher>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20220623" type="date_de_la_première_édition">23/06/2022</date>
+        <date calendar="gregorian" encodinganalog="date" era="ce" normal="20220623" type="date_de_la_version_électronique">23/06/2022</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <langusage>Catalogue rédigé en<language encodinganalog="language" langcode="fre">français</language></langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="fonds">
+    <did>
+      <repository>
+        <corpname authfilenumber="290192210" normal="Centre de recherche bretonne et celtique (CRBC). Bibliothèque" source="Répertoire_des_Centres_de_Ressources">Centre de recherche bretonne et celtique (CRBC). Bibliothèque</corpname>
+      </repository>
+      <unittitle>André, Patrick</unittitle>
+      <unitdate calendar="gregorian" era="ce" normal="2014/2014">2014</unitdate>
+      <langmaterial>
+        <language langcode="fre">français</language>
+      </langmaterial>
+      <physdesc>
+        <extent>Autre volumétrie : 0.1 mètre linéaire</extent>
+      </physdesc>
+    </did>
+    <scopecontent>
+      <head>Type(s) de fonds</head>
+      <p>
+        <genreform normal="Fonds CollEx" type="type de fonds">Fonds CollEx</genreform>
+      </p>
+    </scopecontent>
+    <scopecontent>
+      <head>Type(s) de document(s)</head>
+      <p>
+        <genreform normal="Archives" type="type de document">Archives</genreform>
+      </p>
+    </scopecontent>
+    <controlaccess>
+      <head>Thème(s)</head>
+      <subject>Histoire</subject>
+    </controlaccess>
+    <controlaccess>
+      <head>Lieu(x) géographique(s)</head>
+      <geogname>Nantes</geogname>
+      <geogname>Quimperlé</geogname>
+    </controlaccess>
+    <accruals>
+      <p>Fonds clos</p>
+    </accruals>
+    <processinfo type="traitement du fonds">
+      <head>Traitement du fonds</head>
+      <p>Inventorié</p>
+    </processinfo>
+    <processinfo>
+      <p>Cote : PAN</p>
+    </processinfo>
+    <scopecontent>
+      <p>Le fonds d'archives Patrick André se compose de notes, photographies, dessins, correspondance, documentation et publications concernant le pavement du couvent des Cordeliers à Nantes et du château de Carnoët à Quimperlé.</p>
+    </scopecontent>
+    <bioghist>
+      <p>Patrick André (1939-) est professeur d'histoire. Après des études supérieures à Rennes, il enseigne de 1967 à 1999 à Vannes dans des établissements d'enseignement secondaire. Entre 1969 et 1983, il devient correspondant du Service régional des antiquités historiques puis du Service régional de l'archéologie pour le Morbihan. Responsable de chantiers de fouilles archéologiques, il participe à la création du Centre d'Études et de Recherches Archéologiques du Morbihan, qu'il préside à ses débuts.</p>
+    </bioghist>
+    <otherfindaid>
+      <p>Inventaire du fonds consultable au sein du CRBC.</p>
+    </otherfindaid>
+    <relatedmaterial>
+      <p>Les Archives départementales du Morbihan conservent un fonds Patrick André (150 J). Voir le fonds
+               <extref actuate="onrequest" href="https://rechercher.patrimoines-archives.morbihan.fr/archive/fonds/FRAD056_00000150J" linktype="simple" show="new">Voir le fonds</extref></p>
+    </relatedmaterial>
+    <dsc/>
+  </archdesc>
+</ead>
