@@ -43,7 +43,7 @@ def main():
     print("Total fichiers créés : " + str(len(notices_collex)))                    
       
 def copy_xml(notice, filename):
-    with open('notices_collex/' + filename, "w", encoding="utf-8") as f:
+    with open('Dump_xmlead/' + filename, "w", encoding="utf-8") as f:
         ccfr_new = f.write(ET.tostring(notice, xml_declaration=True, doctype='<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">', pretty_print=True, encoding='utf-8').decode('utf-8')) 
        
                     
