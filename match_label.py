@@ -29,7 +29,7 @@ import re
 
 def main():
     
-    path = "./Nouvelles_notices"
+    path = "./Dump_xmlead"
     extension = "*.xml" 
     
     indices_absents_idref = []
