@@ -85,7 +85,7 @@ def reindexation(notice, expression, indices_absents_idref, filename, elements_r
                 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
                 SELECT ?idrefUri
                 WHERE {{
-                <http://data.bnf.fr/ark:/12148/cb11943247m> skos:exactMatch|skos:closeMatch ?idrefUri .
+                <{uri_ark}> skos:exactMatch|skos:closeMatch ?idrefUri .
                 FILTER(STRSTARTS(STR(?idrefUri), "http://www.idref.fr/"))
                 }}
                 """
