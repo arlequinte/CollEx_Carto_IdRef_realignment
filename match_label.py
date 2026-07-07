@@ -43,6 +43,10 @@ def main():
         
         filename = notice.find("./eadheader/eadid")
         filename = filename.text
+
+        ## Au passage : correction des indices bien alignés sur IdRef, mais avec la syntaxe Sudoc
+        check_sudoc_syntax(notice)
+        
         ## Réindexation <subject>
         reindexation(notice, "//subject[not(@source)]", indices_absents_idref, filename, elements_reindexés)
         reindexation(notice, "//subject[@source='BnF']", indices_absents_idref, filename, elements_reindexés) 
@@ -72,12 +76,21 @@ def main():
     print(f"Nombre d'éléments réindexés avec succès : {len(elements_reindexés)}")
     print(f"Nombre d'éléments laissés tels quels : {len(indices_absents_idref)}")
 
+def check_sudoc_syntax(notice):
+    indexes = notice.xpath("//*[@source='Sudoc']")
+    if indexes != []:
+        for index in indexes:
+            index.set('source', 'IdRef')
+            ppn = index.get("authfilenumber") 
+            if len(ppn) == 9:
+                ppn = "https://www.idref.fr/" + ppn
+                index.set('authfilenumber', ppn)
+    return notice            
 
 def reindexation(notice, xPath, indices_absents_idref, filename, elements_reindexés):
     
     ### Cibler les éléments d'indexation intéressants : ceux qui n'ont pas de rebond vers un référentiel externe
-    find_index_bruts = ET.XPath(xPath)
-    elements_index_bruts = find_index_bruts(notice)
+    elements_index_bruts = notice.xpath(xPath)
     if elements_index_bruts != []:
     
         for element in elements_index_bruts:
