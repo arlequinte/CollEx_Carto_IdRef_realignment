@@ -43,24 +43,17 @@ def main():
         
         filename = notice.find("./eadheader/eadid")
         filename = filename.text
-
-        ## Au passage : correction des indices bien alignés sur IdRef, mais avec la syntaxe Sudoc
-        check_sudoc_syntax(notice)
         
         ## Réindexation <subject>
-        reindexation(notice, "//subject[not(@source)]", indices_absents_idref, filename, elements_reindexés)
-        reindexation(notice, "//subject[@source='BnF']", indices_absents_idref, filename, elements_reindexés) 
+        reindexation(notice, "//subject[not(@source='IdRef')]", indices_absents_idref, filename, elements_reindexés)
         ## Réindexation <persname>
-        reindexation(notice, '//persname[not(@source)]', indices_absents_idref, filename, elements_reindexés) 
-        reindexation(notice, '//persname[@source="BnF"]', indices_absents_idref, filename, elements_reindexés)
+        reindexation(notice, "//persname[not(@source='IdRef')]", indices_absents_idref, filename, elements_reindexés) 
         ## Reindexation <corpname>
-        reindexation(notice, '//corpname[not(@source)]', indices_absents_idref, filename, elements_reindexés)
-        reindexation(notice, '//corpname[@source="BnF"]', indices_absents_idref, filename, elements_reindexés)
+        reindexation(notice, "//corpname[not(@source='IdRef') and not(@source='Répertoire_des_Centres_de_Ressources')]", indices_absents_idref, filename, elements_reindexés)
         ## Réindexation <geogname>
-        reindexation(notice, '//geogname[not(@source)]', indices_absents_idref, filename, elements_reindexés) 
-        reindexation(notice, '//geogname[@source="BnF"]', indices_absents_idref, filename, elements_reindexés) 
+        reindexation(notice, "//geogname[not(@source='IdRef')]", indices_absents_idref, filename, elements_reindexés) 
         ## Réindexation <famname>
-        reindexation(notice, '//famname[not(@source)]', indices_absents_idref, filename, elements_reindexés) 
+        reindexation(notice, "//famname[not(@source='IdRef')]", indices_absents_idref, filename, elements_reindexés) 
         
         ### Enregistrer l'arborescence modifiée dans un nouveau fichier
         make_xml(notice, filename) 
@@ -70,22 +63,11 @@ def main():
     
     if indices_absents_idref != []:
         make_csv_indices_absents(indices_absents_idref)
-        print("Tous les éléments indexés n'ont pas pu être identifiés dans IdRef !")        
+        print(f"{len(indices_absents_idref} index n'ont pas pu être identifiés dans IdRef !")        
     
     print("")
     print(f"Nombre d'éléments réindexés avec succès : {len(elements_reindexés)}")
-    print(f"Nombre d'éléments laissés tels quels : {len(indices_absents_idref)}")
-
-def check_sudoc_syntax(notice):
-    indexes = notice.xpath("//*[@source='Sudoc']")
-    if indexes != []:
-        for index in indexes:
-            index.set('source', 'IdRef')
-            ppn = index.get("authfilenumber") 
-            if len(ppn) == 9:
-                ppn = "https://www.idref.fr/" + ppn
-                index.set('authfilenumber', ppn)
-    return notice            
+    print(f"Nombre d'éléments laissés tels quels : {len(indices_absents_idref)}")         
 
 def reindexation(notice, xPath, indices_absents_idref, filename, elements_reindexés):
     
@@ -94,10 +76,13 @@ def reindexation(notice, xPath, indices_absents_idref, filename, elements_reinde
     if elements_index_bruts != []:
     
         for element in elements_index_bruts:
-            
-            forme_nominale = element.text
-             
-             ##### Nettoyer la valeur : supprimer les éventuels indices Dewey en début de valeur
+
+            #### Récupération de la forme nominale
+            ## Nettoyer la valeur : supprimer les éventuels indices Dewey au début
+            forme_nominale = element.get("normal")
+            if forme_nominale is None:
+                forme_nominale = element.text
+            forme_nominale = forme_nominale.strip()
             forme_nominale = re.sub(r"(\d{3}(\.\d{1,3})?\s)(?=\w)", "", forme_nominale)
 
             ##### Requête sur data.idref
@@ -133,21 +118,34 @@ def reindexation(notice, xPath, indices_absents_idref, filename, elements_reinde
                     valeur = element.get("normal")
                     if valeur is None:
                         valeur = element.text
-                    indices_absents_idref.append([filename, element.text])
+                    liste_indices_absents(indices_absents_idref, notice, filename, element)
             except:
-                indices_absents_idref.append([filename, element.text])
+                liste_indices_absents(indices_absents_idref, notice, filename, element)
 
     return notice, indices_absents_idref, elements_reindexés                
+
+def liste_indices_absents(indices_absents_idref, notice, filename, element):
+    nom_fonds = informations_generales_fonds(ET.XPath("//unittitle"), notice)
+    provenance = informations_generales_fonds(ET.XPath("//repository/corpname"), notice)
+    label = element.get("normal")
+    if label is None:
+        label = element.text
+    indices_absents_idref.append([filename, provenance, nom_fonds, label])    
+    return indices_absents_idref
+
+def informations_generales_fonds(XPath, notice):
+    find_info = XPath(notice)
+    information = find_info[0].text
+    return information
                 
 def make_xml(notice, filename):
-    with open(filename, "w", encoding="utf-8") as f:
+    with open('Dump_xmlead/' + filename, "w", encoding="utf-8") as f:
         ccfr_new = f.write(ET.tostring(notice, xml_declaration=True, doctype='<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">', pretty_print=True, encoding='utf-8').decode('utf-8')) 
 
 def make_csv_indices_absents(indices_absents_idref):
-    with open("labels_absents_d_idref.csv", mode="w", newline="", encoding="utf-8") as csvfile:
+    with open("formes_nominales_à_créer_dans_idref.csv", mode="w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile, delimiter='\t')
-        writer.writerow(["Nom du fichier source", "Forme nominale"])
+        writer.writerow(["Nom du fichier source", "Établissement", "Nom du fonds", "Index"])
         writer.writerows(indices_absents_idref)
         return csvfile
-
 main() 
