@@ -73,7 +73,7 @@ def main():
                 dates_sans_normal.append([filename, nom_fonds, provenance, date.text, "Pas d'attribut @normal"])
                 
         # Réécrire xml
-        with open('Dates_corrigees/' + filename, "w", encoding="utf-8") as f:
+        with open('Dump_xmlead/' + filename, "w", encoding="utf-8") as f:
             ccfr_new = f.write(ET.tostring(notice, xml_declaration=True, doctype='<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">', pretty_print=True, encoding='utf-8').decode('utf-8'))          
     
     print("Vérif terminée.")
